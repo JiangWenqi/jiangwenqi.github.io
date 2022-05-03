@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Wenqi Jiang
-title: Master Student in Data Science
+title: Data Science Student / Big Data Engineer / Powerlifter
 email: jiangwenqi1995@gmail.com
-# website: www.github.com/sproogen/resume-theme
+website: https://jiangwenqi.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -21,8 +21,8 @@ github_username:  JiangWenqi
 # dribbble_username: jekyll
 # facebook_username: JiangWenqi1995
 # flickr_username: jekyll
-instagram_username: jiangwenqi_1995
-linkedin_username: jiang-wenqi
+instagram_username: jiangwenqi1995
+linkedin_username: jiangwenqi
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -52,23 +52,28 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Wenqi and I'm a master student in Madrid. As well as a big data engineer I also have experience in back-end development. 
-  I have worked over 3 years gaining teamwork and leadership skills.
+  Hi, my name's Wenqi, I'm now pursuing a master's degree in Data Science at Polytechnic University of Madrid(UPM) and working at Ontology Engineering Group(OEG) as a software engineer. 
+  I formerly worked in China for three years as a big data engineer and backend engineer. 
 
-  I am most skilled in: <mark>Spark/Flink</mark> and <mark>Powerlifting</mark>
+  I am most skilled in: <mark>Spark/Flink</mark> and <mark>Java/Scala/C++</mark>
+
+  I enjoy <mark>Blockchain Developing</mark>, <mark>Powerlifting</mark> and <mark>Leetcoding</mark> in my spare time.
+
+
+  
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: LOOM-LD
+        link: github.com/oeg-upm/loom-ld
+        # link_text: Project repository
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/oeg-upm/loom-ld
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -94,19 +99,19 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Polytechnic University of Madrid
         caption: 2021 - 2022
         sub_title: MS Data Science
-        quote: >
-          The Polytechnic University of Madrid was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
-          According to the annual university ranking conducted by El Mundo, it ranks as the top technical university in Spain, and second overall.
+        # quote: >
+        #  The Polytechnic University of Madrid was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
+        #  According to the annual university ranking conducted by El Mundo, it ranks as the top technical university in Spain, and second overall.
         # description: | # this will include new lines to allow paragraphs
         #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
         #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-      - layout: left
+      - layout: top-middle
         title: Beijing Information Science & Technology University
         caption: 2014 - 2018
         sub_title: BE Computer Science & Technology
