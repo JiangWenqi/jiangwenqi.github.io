@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 twitter_username: jiangwenqi1995
-github_username:  JiangWenqi
+github_username: JiangWenqi
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -31,16 +31,16 @@ linkedin_username: jiangwenqi
 
 # Additional icon links
 additional_links:
-- title: Dev Community
-  icon: fab fa-dev
-  url: https://dev.to/jiangwenqi
-- title: BinarySearch
-  icon: fas fa-code
-  url: https://binarysearch.com/@/Vinci_1995
-  # https://fontawesome.com/v5.15/icons?d=gallery&m=free
-- title: LeetCode
-  icon: fas fa-terminal
-  url: https://leetcode.com/JiangWenqi/
+  - title: Dev Community
+    icon: fab fa-dev
+    url: https://dev.to/jiangwenqi
+  - title: BinarySearch
+    icon: fas fa-code
+    url: https://binarysearch.com/@/Vinci_1995
+    # https://fontawesome.com/v5.15/icons?d=gallery&m=free
+  - title: LeetCode
+    icon: fas fa-terminal
+    url: https://leetcode.com/JiangWenqi/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -52,50 +52,102 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Wenqi, and I'm now studying a master's degree in Data Science at the Polytechnic University of Madrid (UPM) while working as a software developer at Ontology Engineering Group (OEG).
+  Hello, my name is Wenqi. I'm now studying a master's degree in Data Science at the Polytechnic University of Madrid (UPM) while working as a software developer at Ontology Engineering Group (OEG).
   Prior to that, I worked in mainland China for over three years as a big data engineer and a back end developer.
-  I am most skilled in: <mark>Spark/Flink</mark> and <mark>Java/Scala/C++</mark>
-  I enjoy <mark>Blockchain Developing</mark>, <mark>Powerlifting</mark> and <mark>Leetcoding</mark> in my spare time.
 
-  
+  I am most skilled in: <mark>Spark/Flink</mark> and <mark>Java/Scala/C++</mark>.
+
+
+  I enjoy <mark>Powerlifting</mark> and <mark>Leetcoding</mark> in my spare time.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: LOOM-LD
-        link: github.com/oeg-upm/loom-ld
+        # link: github.com/oeg-upm/loom-ld
         # link_text: Project Website
+        caption: Jan 2022 - July 2022
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: LOOM-LD
             icon: fab fa-github
             url: github.com/oeg-upm/loom-ld
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Student scholarship for the development of linking algorithms and graph linkers.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Task to be developed:
+          - Specification and development of link discovery algorithms;
+          - Development of knowledge graph linker.
+
+      - layout: top-middle
+        title: Dapp-Learning DAO
+        caption: Jan 2022 - Present
+        # link: github.com/Dapp-Learning-DAO
+        # link_text: Project Website
+        # caption: Jan 2022 - July 2022
+        additional_links:
+          - title: DAPP-LEARNING
+            icon: fab fa-github
+            url: github.com/Dapp-Learning-DAO/Dapp-Learning
+        quote: >
+          Step-by-step Dapp practice through actual projects.
+        description: | # this will include new lines to allow paragraphs
+          - Translation
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Shenzhen Togic Software Technology Co.
+        link: 51togic.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Big Data Engineer
+        caption: May 2019 - Aug 2021 · 2 yrs 4 mos
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          - Developed more than 70 offline statistics and generated reports in the context of business demands.
+          - Completed migration of big data platform from Apache Hadoop to Cloudera Hadoop, and upgraded versions.
+          - Restructured user log reception for higher throughput, robustness, and reliability.
+          - Designed and developed data warehouse that saved over 80% storage space and eased the problem of small files on HDFS.
+          - Improved performance and reduced hours of calculation time with Spark SQL on HIVE.
+          - Built program recommendation system with various algorithms, including Collaborative Filtering, Word2Vec, K-means.
+      - layout: left
+        title: Beijing Webstudio Information Technology Co.
+        link: wbdatavis.com
+        # link_text: boringcompany.com
+        sub_title: Back End Engineer
+        caption: Jul 2018 - Apr 2019 · 10 mos
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          - Developed big data visualization dashboards, generic reports backend interfaces for BI applications.
+          - Expanded 16 data sources, like MySQL, SQL Server, MongoDB , etc.
+          - Developed more than 30 data operators, such as summation, date conversion, string processing (Impala functions).
+          - Built and maintained the company's big data platform.
+
+      - layout: left
+        title: Tsinghua University
+        # link: wbdatavis.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: Feb 2018 - Jul 2018 · 6 mos
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          - Organized, annotated and trained on critical illness insurance document data by using GROBID.
+          - Created a application to extract the logical structure of critical illness insurance documents.
+          - Maintained NoSQL database, like MongoDB, Neo4j.
+          - Completed the dissertation - "Research and Implementation of Automatic Extraction System for Logical Structure of Scientific and Technical Documents".
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Polytechnic University of Madrid
         caption: 2021 - 2022
         sub_title: MS Data Science
@@ -103,7 +155,7 @@ content:
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-      - layout: left
+      - layout: right
         title: Beijing Information Science & Technology University
         caption: 2014 - 2018
         sub_title: BE Computer Science & Technology
@@ -111,7 +163,7 @@ content:
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-         
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -119,8 +171,8 @@ content:
       - Powerlifting
       - Hiking
       - Vloging
-      
-      
+
+
       Look at this cool image  
       ![Trees](images/landscape-trees.jpg "Trees")
 
@@ -136,4 +188,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
