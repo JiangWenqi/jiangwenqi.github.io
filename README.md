@@ -30,3 +30,7 @@ bundle exec jekyll serve
 1. failed to load command: `jekyll`
     
     Ruby 3.0 no longer comes with `webrick`: `bundle add webrick`
+
+
+# References
+https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
