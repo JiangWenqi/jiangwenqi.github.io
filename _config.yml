@@ -134,7 +134,7 @@ content:
         title: Tsinghua University
         # link: wbdatavis.com
         # link_text: boringcompany.com
-        sub_title: Software Engineer
+        sub_title: Software Engineering Intern
         caption: Feb 2018 - Jul 2018 · 6 mos
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -152,7 +152,8 @@ content:
         caption: 2021 - 2022
         sub_title: MS Data Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          The Polytechnic University of Madrid is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
+          The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
       - layout: right
@@ -160,7 +161,9 @@ content:
         caption: 2014 - 2018
         sub_title: BE Computer Science & Technology
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
+          It offers an excellent academic discipline system in information science and technology, and servers around 15,000 students from China and abroad.
+
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -170,11 +173,11 @@ content:
       Alongside my interests in data and software engineering, some of my other interests and hobbies are:
       - Powerlifting
       - Hiking
-      - Vloging
+      - Vlog
 
 
       Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+      ![Powerlifting](images/World-Powerlifting.JPG "Powerlifting")
 
 # Footer
 footer_show_references: true
