@@ -60,13 +60,61 @@ about_content: | # this will include new lines to allow paragraphs
   I enjoy <mark>Powerlifting</mark> and <mark>Leetcoding</mark> in my spare time.
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Shenzhen Togic Software Technology Co.
+        link: 51togic.com
+        # link_text: boringcompany.com
+        sub_title: Big Data Engineer
+        caption: May 2019 - Aug 2021 · 2 yrs 4 mos
+        quote: >
+          Shenzhen Togic Software Technology Co., Ltd. was established in August of 2010. The company focuses on home Internet TV clients, with its Togic application(similar to Netflix) and WEBOX(similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment and quickly becoming the most popular app on TV systems.
+          There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
+
+        description: | # this will include new lines to allow paragraphs
+          - Developed more than 70 offline statistics and generated reports in the context of business demands.
+          - Completed migration of big data platform from <mark>Apache Hadoop</mark> to <mark>Cloudera Hadoop</mark>, and upgraded versions.
+          - Restructured user log reception for higher throughput, robustness, and reliability.
+          - Designed and developed <mark>data warehouse</mark> that saved over 80% storage space and eased the problem of small files on <mark>HDFS</mark>.
+          - Improved performance and reduced hours of calculation time with <mark>Spark SQL</mark> on <mark>HIVE</mark>.
+
+      - layout: left
+        title: Beijing Webstudio Information Technology Co.
+        link: wbdatavis.com
+        # link_text: boringcompany.com
+        sub_title: Back End Engineer
+        caption: Jul 2018 - Apr 2019 · 10 mos
+        quote: >
+          Webstudio was founded in 2007 and focuses on quality-based and innovative development, providing data visualization analysis and presentation, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
+        description: | # this will include new lines to allow paragraphs
+          - Developed big data visualization dashboards, generic reports backend interfaces for BI applications.
+          - Expanded 16 data sources, like MySQL, SQL Server, MongoDB , etc.
+          - Developed more than 30 data operators, such as summation, date conversion, string processing (<mark>Impala</mark> functions).
+          - Built and maintained the company's big data platform.
+
+      - layout: left
+        title: Tsinghua University
+        # link: wbdatavis.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineering Intern
+        caption: Feb 2018 - Jul 2018 · 6 mos
+        quote: >
+          Tsinghua University is a world-class research university in China.
+        description: | # this will include new lines to allow paragraphs
+          - Organized, annotated and trained on critical illness insurance document data by using <mark>GROBID</mark>.
+          - Created a application to extract the logical structure of critical illness insurance documents.
+          - Maintained <mark>NoSQL</mark> database, like MongoDB, Neo4j.
+          - Completed the thesis.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: right
         title: LOOM-LD
-        border: weak
-        # link: github.com/oeg-upm/loom-ld
+        # border: weak
+        link: github.com/oeg-upm/loom-ld
         # link_text: Project Website
         caption: Jan 2022 - July 2022
         additional_links:
@@ -85,10 +133,10 @@ content:
 
           Tags: <mark>Ontology</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
 
-      - layout: top-middle
+      - layout: right
         title: Dapp-Learning DAO
         caption: Jan 2022 - Present
-        # link: github.com/Dapp-Learning-DAO
+        link: github.com/Dapp-Learning-DAO
         # link_text: Project Website
         # caption: Jan 2022 - July 2022
         additional_links:
@@ -104,58 +152,10 @@ content:
 
           Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark>.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Shenzhen Togic Software Technology Co.
-        link: 51togic.com
-        # link_text: boringcompany.com
-        sub_title: Big Data Engineer
-        caption: May 2019 - Aug 2021 · 2 yrs 4 mos
-        quote: >
-          Shenzhen Togic Software Technology Co., Ltd. was established in August of 2010. The company focuses on home Internet TV clients, with its Togic application (similar to Netflix) delivering a simple, intuitive, and lightweight experience for family entertainment and quickly becoming the most popular app on TV systems. Togic and Tencent cooperated in October 2013 to create the WEBOX (similar to Apple TV), which can play hundreds of live channels.
-          There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
-
-        description: | # this will include new lines to allow paragraphs
-          - Developed more than 70 offline statistics and generated reports in the context of business demands.
-          - Completed migration of big data platform from <mark>Apache Hadoop</mark> to <mark>Cloudera Hadoop</mark>, and upgraded versions.
-          - Restructured <mark>user log reception</mark> for higher throughput, robustness, and reliability.
-          - Designed and developed <mark>data warehouse</mark> that saved over 80% storage space and eased the problem of small files on <mark>HDFS</mark>.
-          - Improved performance and reduced hours of calculation time with <mark>Spark SQL</mark> on <mark>HIVE</mark>.
-
-      - layout: left
-        title: Beijing Webstudio Information Technology Co.
-        link: wbdatavis.com
-        # link_text: boringcompany.com
-        sub_title: Back End Engineer
-        caption: Jul 2018 - Apr 2019 · 10 mos
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          - Developed big data visualization dashboards, generic reports backend interfaces for BI applications.
-          - Expanded 16 data sources, like MySQL, SQL Server, MongoDB , etc.
-          - Developed more than 30 data operators, such as summation, date conversion, string processing (Impala functions).
-          - Built and maintained the company's big data platform.
-
-      - layout: left
-        title: Tsinghua University
-        # link: wbdatavis.com
-        # link_text: boringcompany.com
-        sub_title: Software Engineering Intern
-        caption: Feb 2018 - Jul 2018 · 6 mos
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          - Organized, annotated and trained on critical illness insurance document data by using GROBID.
-          - Created a application to extract the logical structure of critical illness insurance documents.
-          - Maintained NoSQL database, like MongoDB, Neo4j.
-          - Completed the dissertation - "Research and Implementation of Automatic Extraction System for Logical Structure of Scientific and Technical Documents".
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         title: Polytechnic University of Madrid
         caption: 2021 - 2022
         sub_title: MS Data Science
@@ -164,7 +164,7 @@ content:
           The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-      - layout: right
+      - layout: left
         title: Beijing Information Science & Technology University
         caption: 2014 - 2018
         sub_title: BE Computer Science & Technology
