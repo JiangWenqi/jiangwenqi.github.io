@@ -65,6 +65,7 @@ content:
     content:
       - layout: top-middle
         title: LOOM-LD
+        border: weak
         # link: github.com/oeg-upm/loom-ld
         # link_text: Project Website
         caption: Jan 2022 - July 2022
@@ -114,8 +115,7 @@ content:
         caption: May 2019 - Aug 2021 · 2 yrs 4 mos
         quote: >
           Shenzhen Togic Software Technology Co., Ltd. was established in August of 2010. The company focuses on home Internet TV clients, with its Togic application (similar to Netflix) delivering a simple, intuitive, and lightweight experience for family entertainment and quickly becoming the most popular app on TV systems. Togic and Tencent cooperated in October 2013 to create the WEBOX (similar to Apple TV), which can play hundreds of live channels.
-
-          There are currently over 700,000 daily users, and these products have been utilized by over 9 million individuals globally.
+          There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
 
         description: | # this will include new lines to allow paragraphs
           - Developed more than 70 offline statistics and generated reports in the context of business demands.
