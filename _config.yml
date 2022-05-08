@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Wenqi Jiang
-title: Data Science Student / Big Data Engineer / Powerlifter
+title: Big Data Engineer / Full-Stack Developer
 email: jiangwenqi1995@gmail.com
 website: jiangwenqi.github.io
 
@@ -83,6 +83,8 @@ content:
           - Specification and development of link discovery algorithms;
           - Development of knowledge graph linker.
 
+          Tags: <mark>Ontology</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
+
       - layout: top-middle
         title: Dapp-Learning DAO
         caption: Jan 2022 - Present
@@ -96,7 +98,11 @@ content:
         quote: >
           Step-by-step Dapp practice through actual projects.
         description: | # this will include new lines to allow paragraphs
-          - Translation
+          Task to be developed:
+          - Contributions to the repository of various tasks; 
+          - Translations of some basic tasks.
+
+          Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
