@@ -55,8 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Wenqi. I'm now studying a master's degree in Data Science at the Polytechnic University of Madrid (UPM) while working as a software developer at Ontology Engineering Group (OEG).
   Prior to that, I worked in mainland China for over three years as a big data engineer and a back end developer.
 
-  I am most skilled in: <mark>Spark/Flink</mark> and <mark>Java/Scala/C++</mark>.
-
+  I am most skilled in: <mark>Spark/Flink</mark> and <mark>Java/Scala</mark>.
 
   I enjoy <mark>Powerlifting</mark> and <mark>Leetcoding</mark> in my spare time.
 
@@ -99,7 +98,7 @@ content:
           Step-by-step Dapp practice through actual projects.
         description: | # this will include new lines to allow paragraphs
           Task to be developed:
-          - Contributions to the repository of various tasks; 
+          - Contributions of various tasks to the repository; 
           - Translations of some basic tasks.
 
           Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark>.
@@ -114,14 +113,17 @@ content:
         sub_title: Big Data Engineer
         caption: May 2019 - Aug 2021 · 2 yrs 4 mos
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Shenzhen Togic Software Technology Co., Ltd. was established in August of 2010. The company focuses on home Internet TV clients, with its Togic application (similar to Netflix) delivering a simple, intuitive, and lightweight experience for family entertainment and quickly becoming the most popular app on TV systems. Togic and Tencent cooperated in October 2013 to create the WEBOX (similar to Apple TV), which can play hundreds of live channels.
+
+          There are currently over 700,000 daily users, and these products have been utilized by over 9 million individuals globally.
+
         description: | # this will include new lines to allow paragraphs
           - Developed more than 70 offline statistics and generated reports in the context of business demands.
-          - Completed migration of big data platform from Apache Hadoop to Cloudera Hadoop, and upgraded versions.
-          - Restructured user log reception for higher throughput, robustness, and reliability.
-          - Designed and developed data warehouse that saved over 80% storage space and eased the problem of small files on HDFS.
-          - Improved performance and reduced hours of calculation time with Spark SQL on HIVE.
-          - Built program recommendation system with various algorithms, including Collaborative Filtering, Word2Vec, K-means.
+          - Completed migration of big data platform from <mark>Apache Hadoop</mark> to <mark>Cloudera Hadoop</mark>, and upgraded versions.
+          - Restructured <mark>user log reception</mark> for higher throughput, robustness, and reliability.
+          - Designed and developed <mark>data warehouse</mark> that saved over 80% storage space and eased the problem of small files on <mark>HDFS</mark>.
+          - Improved performance and reduced hours of calculation time with <mark>Spark SQL</mark> on <mark>HIVE</mark>.
+
       - layout: left
         title: Beijing Webstudio Information Technology Co.
         link: wbdatavis.com
