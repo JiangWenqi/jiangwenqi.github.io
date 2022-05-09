@@ -163,7 +163,7 @@ content:
           The Polytechnic University of Madrid is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
           The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
         # description: | # this will include new lines to allow paragraphs
-          # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
       - layout: top-middle
         title: Beijing Information Science & Technology University
         caption: 2014 - 2018
@@ -173,7 +173,7 @@ content:
           It offers an excellent academic discipline system in information science and technology, and servers around 15,000 students from China and abroad.
 
         # description: | # this will include new lines to allow paragraphs
-          # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
