@@ -113,7 +113,7 @@ content:
       - layout: right
         title: LOOM-LD
         # border: weak
-        link: github.com/oeg-upm/loom-ld
+        link: github.com/oeg-upm
         # link_text: Project Website
         caption: Jan 2022 - July 2022
         additional_links:
@@ -133,7 +133,7 @@ content:
           Tags: <mark>Ontology</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
 
       - layout: right
-        title: Dapp-Learning DAO
+        title: Dapp-Learning
         caption: Jan 2022 - Present
         link: github.com/Dapp-Learning-DAO
         # link_text: Project Website
@@ -160,7 +160,7 @@ content:
         caption: 2021 - 2022
         sub_title: MS Data Science
         quote: >
-          The Polytechnic University of Madrid is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
+          The Polytechnic University of Madrid(UPM) is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
           The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
         # description: | # this will include new lines to allow paragraphs
         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
@@ -169,7 +169,7 @@ content:
         caption: 2014 - 2018
         sub_title: BE Computer Science & Technology
         quote: >
-          Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
+          The Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
           It offers an excellent academic discipline system in information science and technology, and servers around 15,000 students from China and abroad.
 
         # description: | # this will include new lines to allow paragraphs
@@ -180,7 +180,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data and software engineering, some of my other interests and hobbies are:
       - Powerlifting
-      - Hiking
+      - Traveling
       - CrossFit
 
 
