@@ -52,12 +52,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Wenqi. I'm now studying a master's degree in Data Science at the Polytechnic University of Madrid (UPM) while working as a software developer at Ontology Engineering Group (OEG).
-  Prior to that, I worked in mainland China for over three years as a big data engineer and a back end developer.
+  Hello, my name is Wenqi. 
+
+  I'm now studying a master's degree in Data Science at the Polytechnic University of Madrid (UPM) while working as an ontology engineer at Ontology Engineering Group (OEG).
+  
+  Prior to that, I worked in mainland China for over three years as a big data engineer and back end developer, so I have experience in handling Tbs data.
 
   I am most skilled in: <mark>Spark/Flink</mark> and <mark>Java/Scala</mark>.
 
-  I enjoy <mark>Powerlifting</mark> and <mark>Leetcoding</mark> in my spare time.
+  I've recently been working on <mark>Web 3</mark> in my spare time.
 
 content:
   - title: Experience # Title for the section
@@ -74,9 +77,9 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           - Developed more than 70 offline statistics and generated reports in the context of business demands.
-          - Completed migration of big data platform from <mark>Apache Hadoop</mark> to <mark>Cloudera Hadoop</mark>, and upgraded versions.
+          - Completed migration of big data platform from Apache <mark> Hadoop</mark> to Cloudera Hadoop, and upgraded versions.
           - Restructured user log reception for higher throughput, robustness, and reliability.
-          - Designed and developed <mark>data warehouse</mark> that saved over 80% storage space and eased the problem of small files on <mark>HDFS</mark>.
+          - Designed and developed data warehouse that saved over 80% storage space and eased the problem of small files on <mark>HDFS</mark>.
           - Improved performance and reduced hours of calculation time with <mark>Spark SQL</mark> on <mark>HIVE</mark>.
 
       - layout: left
@@ -91,7 +94,7 @@ content:
           - Developed big data visualization dashboards, generic reports backend interfaces for BI applications.
           - Expanded 16 data sources, like MySQL, SQL Server, MongoDB , etc.
           - Developed more than 30 data operators, such as summation, date conversion, string processing (<mark>Impala</mark> functions).
-          - Built and maintained the company's big data platform.
+          - Built and maintained the big data platform.
 
       - layout: left
         title: Tsinghua University
@@ -102,8 +105,8 @@ content:
         quote: >
           Tsinghua University is a world-class research university in China.
         description: | # this will include new lines to allow paragraphs
-          - Organized, annotated and trained on critical illness insurance document data by using <mark>GROBID</mark>.
-          - Created a application to extract the logical structure of critical illness insurance documents.
+          - Organized and annotated critical illness insurance documents for researching.
+          - Trained a model by using <mark>GROBID</mark> to extract the logical structure of critical illness insurance documents.
           - Maintained <mark>NoSQL</mark> database, like MongoDB, Neo4j.
           - Completed the thesis.
 
@@ -180,12 +183,12 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data and software engineering, some of my other interests and hobbies are:
       - Powerlifting
+      - Watching UFC fights
       - Traveling
       - CrossFit
 
-
       Look at this cool image  
-      ![Powerlifting](images/World-Powerlifting.JPG "Powerlifting")
+      ![ufc](images/UFC_SHENZHEN.JPG "ufc")
 
 # Footer
 footer_show_references: false
