@@ -110,7 +110,7 @@ content:
           - Maintained <mark>NoSQL</mark> database, like MongoDB, Neo4j.
           - Completed the thesis.
 
-  - title: Projects # Title for the section
+  - title: Current Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: right
