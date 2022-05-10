@@ -63,6 +63,50 @@ about_content: | # this will include new lines to allow paragraphs
   I've recently been working on <mark>Web 3</mark> in my spare time.
 
 content:
+  - title: Current Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: right
+        title: LOOM-LD
+        # border: weak
+        link: github.com/oeg-upm
+        # link_text: Project Website
+        caption: Jan 2022 - Present
+        additional_links:
+          - title: LOOM-LD
+            icon: fab fa-github
+            url: github.com/oeg-upm/loom-ld
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Student scholarship for the development of linking algorithms and graph linkers.
+        description: | # this will include new lines to allow paragraphs
+          Task to be developed:
+          - Specification and development of link discovery algorithms;
+          - Development of knowledge graph linker.
+
+          Tags: <mark>Ontology</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
+
+      - layout: right
+        title: Dapp-Learning
+        caption: Apr 2022 - Present
+        link: github.com/Dapp-Learning-DAO
+        # link_text: Project Website
+        # caption: Jan 2022 - July 2022
+        additional_links:
+          - title: DAPP-LEARNING
+            icon: fab fa-github
+            url: github.com/Dapp-Learning-DAO/Dapp-Learning
+        quote: >
+          Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
+          Step-by-step Dapp practice through actual projects.
+        description: | # this will include new lines to allow paragraphs
+          Task to be developed:
+          - Contributions of various tasks to the repository; 
+          - Translations of some basic tasks.
+
+          Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark>.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -110,50 +154,7 @@ content:
           - Maintained <mark>NoSQL</mark> database, like MongoDB, Neo4j.
           - Completed the thesis.
 
-  - title: Current Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: right
-        title: LOOM-LD
-        # border: weak
-        link: github.com/oeg-upm
-        # link_text: Project Website
-        caption: Jan 2022 - Present
-        additional_links:
-          - title: LOOM-LD
-            icon: fab fa-github
-            url: github.com/oeg-upm/loom-ld
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Student scholarship for the development of linking algorithms and graph linkers.
-        description: | # this will include new lines to allow paragraphs
-          Task to be developed:
-          - Specification and development of link discovery algorithms;
-          - Development of knowledge graph linker.
 
-          Tags: <mark>Ontology</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
-
-      - layout: right
-        title: Dapp-Learning
-        caption: Apr 2022 - Present
-        link: github.com/Dapp-Learning-DAO
-        # link_text: Project Website
-        # caption: Jan 2022 - July 2022
-        additional_links:
-          - title: DAPP-LEARNING
-            icon: fab fa-github
-            url: github.com/Dapp-Learning-DAO/Dapp-Learning
-        quote: >
-          Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
-          Step-by-step Dapp practice through actual projects.
-        description: | # this will include new lines to allow paragraphs
-          Task to be developed:
-          - Contributions of various tasks to the repository; 
-          - Translations of some basic tasks.
-
-          Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
