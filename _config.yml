@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Wenqi Jiang
-title: Big Data Engineer / Full-Stack Developer
+title: Big Data Engineer / Backend Engineer
 email: jiangwenqi1995@gmail.com
 website: jiangwenqi.info
 
@@ -50,17 +50,15 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Wenqi. 
+  Hello, my name is Wenqi Jiang.
 
-  I'm now studying a master's degree in Data Science at the Polytechnic University of Madrid (UPM) while working as an ontology engineer at Ontology Engineering Group (OEG).
-  
-  Prior to that, I worked in mainland China for over three years as a big data engineer and back end developer, so I have experience in handling Tbs data.
+  I'm now studying a master's degree in **Data Science** at the Polytechnic University of Madrid (UPM) while working as a **software engineer** at Ontology Engineering Group (OEG).
 
-  I am most skilled in: <mark>Spark/Flink</mark> and <mark>Java/Scala</mark>.
+  Before that, I worked in mainland China for over **three years** as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: <mark>Spark/Flink/Elasticsearch/Spring</mark> and <mark>Java/Scala/Python</mark>.
 
-  I've recently been working on <mark>Web 3</mark> in my spare time.
+  Besides daily work, I am constantly looking for new challenges, I learned to <mark>React/Flutter</mark>. Recently, I have been working on working on <mark>Web 3</mark> in my spare time.
 
 content:
   - title: Current Projects # Title for the section
@@ -84,9 +82,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Task to be developed:
           - Specification and development of link discovery algorithms;
-          - Development of knowledge graph linker.
+          - Development of knowledge graph linker, implementing the Apache Jena custom functions;
+          - SPARQL-based link discovery, like text similarity or geographic relationship of spatial data.
 
-          Tags: <mark>Ontology</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
+          Tags: <mark>Ontology</mark> <mark>RDF</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
 
       - layout: right
         title: Dapp-Learning
@@ -103,18 +102,20 @@ content:
           Step-by-step Dapp practice through actual projects.
         description: | # this will include new lines to allow paragraphs
           Task to be developed:
-          - Contributions of various tasks to the repository; 
-          - Translations of some basic tasks.
+          - Contributions of various tutorial tasks; 
+          - Translations of the basic tasks;
+          - Sharing latest blockchain news and cutting-edge technics in community.
 
-          Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark>.
+          Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark> <mark>DAO</mark>.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Shenzhen Togic Software Technology Co.
+        title: Big Data Engineer
         link: 51togic.com
         # link_text: boringcompany.com
-        sub_title: Big Data Engineer
+        sub_title: Shenzhen Togic Software Technology Co.
         caption: May 2019 - Aug 2021 · 2 yrs 4 mos
         quote: >
           Shenzhen Togic Software Technology Co., Ltd. was established in August 2010. The company focuses on home Internet TV clients, with its Togic application(similar to Netflix) and WEBOX(similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
@@ -127,10 +128,10 @@ content:
           - Improved performance and reduced hours of calculation time with <mark>Spark SQL</mark> on <mark>HIVE</mark>.
 
       - layout: left
-        title: Beijing Webstudio Information Technology Co.
+        title: Backend Engineer
         link: wbdatavis.com
         # link_text: boringcompany.com
-        sub_title: Back End Engineer
+        sub_title: Beijing Webstudio Information Technology Co.
         caption: Jul 2018 - Apr 2019 · 10 mos
         quote: >
           Webstudio was founded in 2007 and focuses on quality-based and innovative development, providing data visualization analysis and presentation, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
@@ -141,10 +142,10 @@ content:
           - Built and maintained the big data platform.
 
       - layout: left
-        title: Tsinghua University
-        # link: wbdatavis.com
+        title: Software Engineering Intern
+        link: keg.cs.tsinghua.edu.cn
         # link_text: boringcompany.com
-        sub_title: Software Engineering Intern
+        sub_title: Tsinghua University
         caption: Feb 2018 - Jul 2018 · 6 mos
         quote: >
           Tsinghua University is a world-class research university in China.
@@ -154,14 +155,12 @@ content:
           - Maintained <mark>NoSQL</mark> database, like MongoDB, Neo4j.
           - Completed the thesis.
 
-
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Polytechnic University of Madrid
-        caption: 2021 - 2022
+        caption: 2021 - Present
         sub_title: MS Data Science
         quote: >
           The Polytechnic University of Madrid(UPM) is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
@@ -184,12 +183,12 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data and software engineering, some of my other interests and hobbies are:
       - Powerlifting
-      - Watching UFC fights
+      - UFC/MMA
       - Traveling
       - CrossFit
 
-      Look at this cool image  
-      ![ufc](images/UFC_SHENZHEN.JPG "ufc")
+    # Look at this cool image
+    # ![ufc](images/UFC_SHENZHEN.JPG "ufc")
 
 # Footer
 footer_show_references: false
