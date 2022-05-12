@@ -1,36 +1,52 @@
-# Install Ruby
+# Wenqi Jiang
+| Big Data Engineer / Backend Engineer
 
-```bash
-brew install ruby
-echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
-source ~/.zshrc
-```
+## About Me
 
-# Install `bundler`, `jekyll`
+Hello, my name is Wenqi Jiang.
 
-```bash
-gem install --user-install bundler jekyll
-source ~/.zshrc
-```
+I'm now studying a master's degree in **Data Science** at the Polytechnic University of Madrid (UPM) while working as a **software engineer** at Ontology Engineering Group (OEG).
 
-# Run it
+Before that, I worked in mainland China for over **three years** as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: `Spark`/`Flink`/`Elasticsearch`/`Spring` and `Java`/`Scala`/`Python`.
 
-```bash
-cd your_project_directory
-bundle install
-bundle exec jekyll serve
-```
+Besides daily work, I am constantly looking for new challenges, I learned to `React`/`Flutter`. Recently, I have been working on working on **_Web 3.0_** in my spare time.
 
-## Check it on: `localhost:4000`
+### Skills
+|Domains|Technique|
+|---|---|
+|Big Data|**Kafka**, Hadoop, CDH, Sqoop, HBase, **Hive**, Impala, **Spark**, **Flink**, Elasticsearch|
+|Backend|Maven, Gradle, Spring Boot, Dubbo, MyBatis, Hibernate, FreeMarker, Mysql, Redis, Nginx, Tomcat|
+|Blockchain|Solidity, web3.js|
+|Frontend & Mobile|React.js, Vue.js, Flutter, Scrapy|
+|Devops|Shell(bash, zsh), Docker|
+|Programing Languages|**Java**, Scala, JavaScript, Python, Solidity, C++, R|
 
 ---
 
-# Problems
+# Recent Projects
 
-1. failed to load command: `jekyll`
-    
-    Ruby 3.0 no longer comes with `webrick`: `bundle add webrick`
+## LOOM-LD
 
 
-# References
-https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
+## DApp-Learning
+
+---
+# Experience
+
+##
+
+##
+---
+# Education
+
+## 
+
+
+## 
+
+---
+
+# Contact
+- Email: [jiangwenqi1995@gmail.com](mailto:jiangwenqi1995@gmail.com)
+- Github: github.com/jiangwenqi
+- Blog: dev.to/jiangwenqi
