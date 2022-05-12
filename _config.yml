@@ -56,9 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   I'm now studying a master's degree in **Data Science** at the Polytechnic University of Madrid (UPM) while working as a **software engineer** at Ontology Engineering Group (OEG).
 
-  Before that, I worked in mainland China for over **three years** as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: <mark>Spark/Flink/Elasticsearch/Spring</mark> and <mark>Java/Scala/Python</mark>.
+  Before that, I worked in mainland China for over **three years** as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: `Spark`/`Flink`/`Elasticsearch`/`Spring` and `Java`/`Scala`/`Python`.
 
-  Besides daily work, I am constantly looking for new challenges, I learned to <mark>React/Flutter</mark>. Recently, I have been working on working on <mark>Web 3</mark> in my spare time.
+  Besides daily work, I am constantly looking for new challenges, I learned to `React`/`Flutter`. Recently, I have been working on working on ***Web 3.0*** in my spare time.
 
 content:
   - title: Current Projects # Title for the section
@@ -106,7 +106,7 @@ content:
           - Translations of the basic tasks;
           - Sharing latest blockchain news and cutting-edge technics in community.
 
-          Tags: <mark>Blockchain</mark> <mark>web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark> <mark>DAO</mark>.
+          Tags: <mark>Blockchain</mark> <mark>Web3.0</mark> <mark>Solidity</mark> <mark>Ethereum</mark> <mark>DAO</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -122,10 +122,12 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           - Developed more than 70 offline statistics and generated reports in the context of business demands.
-          - Completed migration of big data platform from Apache <mark> Hadoop</mark> to Cloudera Hadoop, and upgraded versions.
-          - Restructured user log reception for higher throughput, robustness, and reliability.
-          - Designed and developed data warehouse that saved over 80% storage space and eased the problem of small files on <mark>HDFS</mark>.
-          - Improved performance and reduced hours of calculation time with <mark>Spark SQL</mark> on <mark>HIVE</mark>.
+          - Completed migration of big data platform from `Apache Hadoop` to `Cloudera Hadoop`, and upgraded versions.
+          - Restructured **user log reception** for higher throughput, robustness, and reliability.
+          - Designed and developed **data warehouse** that saved over 80% storage space and eased the problem of small files on `HDFS`.
+          - Improved performance and reduced hours of calculation time with `Spark SQL` on `HIVE`.
+
+          Tags: <mark>Git</mark> <mark>Maven</mark> <mark>Java</mark> <mark>Scala</mark> <mark>Python</mark> <mark>Nginx</mark> <mark>Netty</mark> <mark>CDH</mark> <mark>Sqoop</mark> <mark>Kafka</mark> <mark>Hadoop</mark> <mark>Spark Core</mark> <mark>Spark SQL</mark> <mark>Spark ML</mark> <mark>Flink</mark> <mark>Hive</mark> <mark>Elasticsearch</mark> <mark>MySQL</mark> etc.
 
       - layout: left
         title: Backend Engineer
@@ -136,9 +138,9 @@ content:
         quote: >
           Webstudio was founded in 2007 and focuses on quality-based and innovative development, providing data visualization analysis and presentation, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
         description: | # this will include new lines to allow paragraphs
-          - Developed big data visualization dashboards, generic reports backend interfaces for BI applications.
-          - Expanded 16 data sources, like MySQL, SQL Server, MongoDB , etc.
-          - Developed more than 30 data operators, such as summation, date conversion, string processing (<mark>Impala</mark> functions).
+          - Implemented big data visualization dashboards and general reports backend interfaces for the BI applications;
+          - Expanded 16 data sources, like MySQL, SQL Server, MongoDB etc.;
+          - Developed more than 30 data operators, such as summation, date conversion and string processing;
           - Built and maintained the big data platform.
 
       - layout: left
@@ -150,9 +152,9 @@ content:
         quote: >
           Tsinghua University is a world-class research university in China.
         description: | # this will include new lines to allow paragraphs
-          - Organized and annotated critical illness insurance documents for researching.
-          - Trained a model by using <mark>GROBID</mark> to extract the logical structure of critical illness insurance documents.
-          - Maintained <mark>NoSQL</mark> database, like MongoDB, Neo4j.
+          - Organized and annotated critical illness insurance documents for researching;
+          - Trained a model by using `GROBID` to extract the logical structure of critical illness insurance documents;
+          - Maintained `NoSQL` database, like MongoDB, Neo4j;
           - Completed the thesis.
 
   - title: Education # Title for the section
@@ -165,8 +167,10 @@ content:
         quote: >
           The Polytechnic University of Madrid(UPM) is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century. 
           The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
-        # description: | # this will include new lines to allow paragraphs
-        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        description: | # this will include new lines to allow paragraphs
+          <mark>Big Data</mark> <mark>Data Processes</mark> <mark>Deep Learning</mark> <mark>Information Retrieval, Extraction and Integration</mark> <mark>Machine Learning</mark> <mark>Statistical Data Analysis</mark> <mark>Time Series Data Mining</mark> etc.
+
+      # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
       - layout: top-middle
         title: Beijing Information Science & Technology University
         caption: 2014 - 2018
@@ -176,7 +180,8 @@ content:
           It offers an excellent academic discipline system in information science and technology, and servers around 15,000 students from China and abroad.
 
         # description: | # this will include new lines to allow paragraphs
-        # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+      # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
