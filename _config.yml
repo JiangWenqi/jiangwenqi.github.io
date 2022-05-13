@@ -128,7 +128,7 @@ content:
           - Improved performance and reduced hours of calculation time with `Spark SQL` on `HIVE`.
 
 
-          <mark>Git</mark> <mark>Maven</mark> <mark>Java</mark> <mark>Scala</mark> <mark>Python</mark> <mark>Nginx</mark> <mark>Netty</mark> <mark>Elasticsearch</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>Docker</mark> <mark>CDH</mark> <mark>Sqoop</mark> <mark>Kafka</mark> <mark>Hadoop</mark> <mark>Spark</mark> <mark>Spark ML</mark> <mark>Flink</mark> <mark>Hive</mark>
+          <mark>Java</mark> <mark>Scala</mark> <mark>Python</mark> <mark>Nginx</mark> <mark>Netty</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>Elasticsearch</mark> <mark>CDH</mark> <mark>Sqoop</mark> <mark>Kafka</mark> <mark>Hadoop</mark> <mark>Spark</mark> <mark>Spark ML</mark> <mark>Flink</mark> <mark>Hive</mark> <mark>Docker</mark>
 
       - layout: left
         border: weak
@@ -147,7 +147,7 @@ content:
           - Built and maintained the big data platform, fixed bugs and improved performance of the previous company's projects.
                     
 
-          <mark>Git</mark> <mark>Maven</mark> <mark>Dubbo</mark> <mark>Java</mark> <mark>Spring Boot</mark> <mark>Nginx</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>MyBatis</mark> <mark>Docker</mark> <mark>Hibernate</mark> <mark>FastDFS</mark> <mark>CDH</mark> <mark>Hadoop</mark> <mark>HBase</mark> <mark>Impala</mark> <mark>Spark</mark> <mark>Spark ML</mark>
+          <mark>Java</mark> <mark>Dubbo</mark> <mark>Spring Boot</mark> <mark>Nginx</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>MyBatis</mark> <mark>Hibernate</mark> <mark>FastDFS</mark> <mark>CDH</mark> <mark>Hadoop</mark> <mark>HBase</mark> <mark>Impala</mark> <mark>Spark</mark> <mark>Spark ML</mark> <mark>Docker</mark> 
 
       - layout: left
         title: Software Engineering Intern
