@@ -164,8 +164,8 @@ The major subjects include:
 
 # Contact
 
-- Mobile: +34 691-752-157
+- Mobile: [+34 691-752-157](tel:+34-691752157)
 - Email: [jiangwenqi1995@gmail.com](mailto:jiangwenqi1995@gmail.com)
-- Online Resume: jiangwenqi.info
-- Github: github.com/jiangwenqi
-- Blog: dev.to/jiangwenqi
+- Online Resume: [jiangwenqi.info](jiangwenqi.info)
+- Github: [github.com/jiangwenqi](github.com/jiangwenqi)
+- Blog: [dev.to/jiangwenqi](dev.to/jiangwenqi)
