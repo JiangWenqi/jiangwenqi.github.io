@@ -65,13 +65,30 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        # border: weak
+        title: Ontology Engineer (Scholarship)
+        link: oeg.fi.upm.es
+        # link_text: boringcompany.com
+        sub_title: Ontology Engineering Group
+        caption: Feb 2022 - Present
+        quote: >
+          Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
+        description: | # this will include new lines to allow paragraphs
+          - Analyzed the ontologies from different endpoints;
+          - Implemented the `ontology linking algorithms` in different situations;
+          - Contributed and maintained the `LOOM-LD` project;
+          - Completed the master's thesis.
+
+          <mark>Ontology</mark> <mark>Graph Linker</mark> <mark>RDF</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark> <mark>Text Similarity</mark> <mark>DE-9IM</mark> <mark>WKT</mark> 
+
+      - layout: left
         title: Big Data Engineer
         link: 51togic.com
         # link_text: boringcompany.com
         sub_title: Shenzhen Togic Software Technology Co.
         caption: May 2019 - Aug 2021 · 2 yrs 4 mos
         quote: >
-          Shenzhen Togic Software Technology Co., Ltd. was established in August 2010. The company focuses on home Internet TV clients, with its Togic application(similar to Netflix) and WEBOX(similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
+          Shenzhen Togic Software Technology Co. was established in August 2010. The company focuses on home Internet TV clients, with its Togic application(similar to Netflix) and WEBOX(similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
 
         description: | # this will include new lines to allow paragraphs
           - Developed more than 70 offline statistics and generated reports in the context of business demands.
@@ -84,14 +101,14 @@ content:
           <mark>Hadoop</mark> <mark>CDH</mark> <mark>Sqoop</mark> <mark>Kafka</mark> <mark>Spark</mark> <mark>Spark ML</mark> <mark>Flink</mark> <mark>Hive</mark> <mark>Java</mark> <mark>Scala</mark> <mark>Python</mark> <mark>Nginx</mark> <mark>Netty</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>Elasticsearch</mark> <mark>Docker</mark>
 
       - layout: left
-        border: weak
+        # border: weak
         title: Backend Engineer
         link: wbdatavis.com
         # link_text: boringcompany.com
         sub_title: Beijing Webstudio Information Technology Co.
         caption: Jul 2018 - Apr 2019 · 10 mos
         quote: >
-          Webstudio was founded in 2007 and focuses on quality-based and innovative development, providing data visualization analysis and presentation, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
+          Beijing Webstudio Information Technology Co. was founded in 2007 and focuses on quality-based and innovative development, providing data visualization analysis and presentation, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
         description: | # this will include new lines to allow paragraphs
           - Implemented backend APIs of big data visualization dashboards and general reports for the `BI` applications;
           - Developed more than 30 data operators, such as summation, date conversion and string processing;
@@ -103,27 +120,13 @@ content:
           <mark>Dubbo</mark> <mark>Spring Boot</mark> <mark>MyBatis</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Nginx</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>Docker</mark> <mark>FastDFS</mark> <mark>CDH</mark> <mark>Hadoop</mark> <mark>HBase</mark> <mark>Impala</mark> <mark>Spark</mark> <mark>Spark ML</mark>
 
       - layout: left
-        title: Ontology Engineer (Scholarship)
-        link: oeg.fi.upm.es
-        # link_text: boringcompany.com
-        sub_title: Universidad Politécnica de Madrid
-        caption: Feb 2022 - Present
-        quote: >
-          Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
-        description: | # this will include new lines to allow paragraphs
-          - Analyzed the ontologies from different endpoints;
-          - Implemented the `ontology linking algorithms` in different situations;
-          - Contributed and maintained the `LOOM-LD` project;
-          - Completed the master's thesis.
-
-      - layout: left
         title: Software Engineer (Internship)
         link: keg.cs.tsinghua.edu.cn
         # link_text: boringcompany.com
-        sub_title: Tsinghua University
+        sub_title: Knowledge Engineering Group
         caption: Feb 2018 - Jul 2018 · 6 mos
         quote: >
-          The Knowledge Engineering Group (KEG) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic Web, knowledge graph construction, etc.
+          Knowledge Engineering Group (KEG) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic Web, knowledge graph construction, etc.
         description: | # this will include new lines to allow paragraphs
           - Organized and annotated critical illness insurance documents;
           - Trained models to extract the logical structure of insurance documents by using `GROBID`;
@@ -131,7 +134,7 @@ content:
           - Maintained data in `NoSQL database`, like MongoDB, Neo4j;
           - Completed the thesis.
 
-      # <mark>NLP</mark> <mark>CRF</mark> <mark>GROBID</mark> <mark>Neo4j</mark> <mark>MongoDB</mark> <mark>Java FX</mark>
+          <mark>NLP</mark> <mark>CRF</mark> <mark>GROBID</mark> <mark>Neo4j</mark> <mark>MongoDB</mark> <mark>Java FX</mark>
 
   - title: Current Project # Title for the section
     layout: list # Type of content section (list/text)
@@ -157,7 +160,7 @@ content:
           - Development of knowledge graph linker, implementing the Apache Jena custom functions;
           - SPARQL-based linking discovery, like text similarity or geographic relationship of spatial data.
 
-          Tags: <mark>Ontology</mark> <mark>RDF</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>.
+          Tags: <mark>Ontology</mark> <mark>Graph Linker</mark> <mark>RDF</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark> <mark>Text Similarity</mark> <mark>DE-9IM</mark> <mark>WKT</mark>.
 
       - layout: right
         title: Dapp-Learning
@@ -178,7 +181,7 @@ content:
           - Translations of the basic tasks;
           - Sharing latest blockchain news and cutting-edge technics in community.
 
-          Tags: <mark>Blockchain</mark> <mark>web3.js</mark> <mark>Solidity</mark> <mark>Ethereum</mark> <mark>DAO</mark>.
+          Tags: <mark>Blockchain</mark> <mark>web3.js</mark> <mark>Solidity</mark> <mark>Ethereum</mark> <mark>Hardhat</mark> <mark>Alchemy</mark> <mark>Infura</mark> <mark>DAO</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
