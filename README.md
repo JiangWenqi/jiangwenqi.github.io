@@ -2,7 +2,7 @@
 
 | Big Data Engineer / Backend Engineer
 
-# About Me
+## About Me
 
 Hello, my name is Wenqi Jiang.
 
@@ -10,7 +10,7 @@ I'm now studying a master's degree in **Data Science** at the Polytechnic Univer
 
 Before that, I worked in mainland China for over **three years** as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: `Spark`/`Flink`/`Elasticsearch`/`Spring` and `Java`/`Scala`/`Python`.
 
-Besides daily work, I am constantly looking for new challenges, I learned to `React`/`Flutter`. Recently, I have been working on working on **Web 3.0** in my spare time.
+Besides daily work, I am constantly looking for new challenges, I learned to `React`/`Flutter`. Recently, I have been working on **Web 3.0** in my spare time.
 
 | Domains              | Techniques                                                                                         |
 | -------------------- | -------------------------------------------------------------------------------------------------- |
@@ -24,32 +24,44 @@ Besides daily work, I am constantly looking for new challenges, I learned to `Re
 
 ---
 
-# Experience
+# Experiences
 
-## Ontology Engineer (Scholarship)
+## Ontology Engineer (Scholarship) 
 
-### [OEG](oeg.fi.upm.es) (Feb 2022 - Present)
+[OEG-UPM](oeg.fi.upm.es) (Feb 2022 - Present)
 
-Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
+> Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
 
-#### Contents:
+### [LOOM-LD](github.com/oeg-upm/loom-ld)
 
-- Analyzed the ontologies from different endpoints;
-- Implemented the `ontology linking algorithms` in different situations;
-- Contributed and maintained the `LOOM-LD` project;
-- Completed the master's thesis.
+| Student **scholarship** for the development of linking algorithms and graph linkers.
 
-#### Skills:
+- Analyzed the `ontologies` from different data sources;
+- Specification and development of `linking discovery algorithms`;
+- Development of knowledge graph linker, implementing the Apache `Jena` custom functions;
+- `Sparql-based` linking discovery, including text similarity and geographic relationship;
+- Evaluated these algorithms by using `OAEI-2021` datasets, and completed my master's thesis.
 
-`Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`.
+***Keywords***: `Ontology` `Graph Linker` `RDF` `Text Similarity` `DE-9IM` `WKT` `SPARQL` `Apache Jena` `OAEI` etc.
+
 
 ## Big Data Engineer
 
-### [Togic](www.51togic.com) (May 2019 - Aug 2021) · 2 yrs 4 mos
+[Togic](www.51togic.com) (May 2019 - Aug 2021) · 2 yrs 4 mos
 
-Shenzhen Togic Software Technology Co. was established in August 2010. The company focuses on home Internet TV clients, with its **Togic** application(similar to Netflix) and **WEBOX**(similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over **700,000** daily users on this platform, and near **9 million** customers worldwide used these products.
+> Shenzhen Togic Software Technology Co. was established in 2010. The company focuses on home Internet TV clients, with its **Togic** application(similar to Netflix) and **WEBOX**(similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over **700,000** daily users on this platform, and near **9 million** customers worldwide used these products.
 
-#### Contents:
+### 1.
+
+***Keywords***: 
+
+### 2.
+
+***Keywords***: 
+
+### 3.
+***Keywords***: 
+
 
 - Developed more than 70 **offline statistics** and generated reports in the context of business demands.
 - Completed migration of big data platform from `Apache Hadoop` to `Cloudera Hadoop`, and upgraded versions.
@@ -101,17 +113,6 @@ The Knowledge Engineering Group (KEG) of Tsinghua University established in 1996
 
 # Current Projects
 
-## [LOOM-LD](github.com/oeg-upm/loom-ld) (Jan 2022 - Present)
-
-| Student scholarship for the development of linking algorithms and graph linkers.
-
-### Task to be developed:
-
-- Specification and development of link discovery algorithms;
-- Development of knowledge graph linker, implementing the Apache Jena custom functions;
-- SPARQL-based linking discovery, like text similarity or geographic relationship of spatial data.
-
-Tags: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `OAEI` `Text Similarity` `DE-9IM` `WKT`.
 
 ## [DApp-Learning](github.com/Dapp-Learning-DAO/Dapp-Learning) (Apr 2022 - Present)
 
