@@ -150,7 +150,7 @@ Polytechnic University of Madrid (2021 – Present)
 The major subjects include:
 
 - Big Data / Cloud Computing and Big Data Ecosystems Design;
-- Data Processes / Information Retrieval / Extraction and Integration / Time Series Data Mining;
+- Data Processes / Information Retrieval, Extraction and Integration / Time Series Data Mining;
 - Statistical Data Analysis / Machine Learning;
 - Open Data and Knowledge Graphs / Intelligent Systems / Deep Learning;
 - Introduction to Research Methodology / Ethical, Legal and Social Aspects etc.
@@ -159,8 +159,8 @@ The major subjects include:
 
 Beijing Information Science & Technology University (2014 – 2018)
 
-> The Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College / which are both created in the 19th century.
-> It offers an excellent academic discipline system in information science and technology / and servers around 15 /000 students from China and abroad.
+> The Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
+> It offers an excellent academic discipline system in information science and technology and servers around 15,000 students from China and abroad.
 
 The major subjects include:
 
