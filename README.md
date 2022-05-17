@@ -1,6 +1,6 @@
 # Wenqi Jiang
 
-| Big Data Engineer / Backend Engineer
+| Data Engineer / Backend Engineer
 
 ## About Me
 
@@ -21,6 +21,14 @@ Besides daily work, I am constantly looking for new challenges, I learned to `Re
 | Blockchain            | Dapp, **Solidity**, Web3.js, Hardhat, Alchemy, Infura                                              |
 | DevOps                | Shell (bash, zsh), **Docker**, Github Action                                                       |
 | Programming Languages | **Java**, Scala, JavaScript, Python, Solidity, C++, R                                              |
+
+## Contact
+
+- Mobile: [+34 691-752-157](tel:+34-691752157)
+- Email: [jiangwenqi1995@gmail.com](mailto:jiangwenqi1995@gmail.com)
+- Online Resume: [jiangwenqi.info](https://jiangwenqi.info/)
+- GitHub: [github.com/jiangwenqi](https://github.com/jiangwenqi)
+- Blog: [dev.to/jiangwenqi](https://dev.to/jiangwenqi)
 
 ---
 
@@ -125,7 +133,7 @@ _Feb 2018 – Jul 2018_ · 6 mos
 
 ## [Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
 
-Apr 2022 – Present
+_Apr. 2022 – Present_
 
 > Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
 > Step-by-step Dapp practice through actual projects.
@@ -142,7 +150,7 @@ Apr 2022 – Present
 
 ## MS Data Science
 
-Polytechnic University of Madrid (2021 – Present)
+Polytechnic University of Madrid (_2021 – Present_)
 
 > The Polytechnic University of Madrid(UPM) is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century.
 > The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
@@ -157,7 +165,7 @@ The major subjects include:
 
 ## BE Computer Science & Technology
 
-Beijing Information Science & Technology University (2014 – 2018)
+Beijing Information Science & Technology University (_2014 – 2018_)
 
 > The Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
 > It offers an excellent academic discipline system in information science and technology and servers around 15,000 students from China and abroad.
@@ -171,12 +179,3 @@ The major subjects include:
 - Programming Languages: C, C++, Java;
 - Data Structure, Algorithm, etc.
 
----
-
-# Contact
-
-- Mobile: [+34 691-752-157](tel:+34-691752157)
-- Email: [jiangwenqi1995@gmail.com](mailto:jiangwenqi1995@gmail.com)
-- Online Resume: [jiangwenqi.info](https://jiangwenqi.info/)
-- GitHub: [github.com/jiangwenqi](https://github.com/jiangwenqi)
-- Blog: [dev.to/jiangwenqi](https://dev.to/jiangwenqi)
