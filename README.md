@@ -36,9 +36,9 @@ Besides daily work, I am constantly looking for new challenges, I learned to `Re
 
 ## Ontology Engineer (Scholarship)
 
-**OEG-UPM** | _Dec. 2021 – Present_
+**[OEG-UPM](https://oeg.fi.upm.es)** | _Dec. 2021 – Present_
 
-> Ontology Engineering Group([OEG](https://oeg.fi.upm.es)) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
+> Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
 
 ### [LOOM-LD](https://github.com/oeg-upm/loom-ld)
 
@@ -56,9 +56,9 @@ A student **scholarship** for the development of linking algorithms and graph li
 
 ## Big Data Engineer
 
-**TOGIC** | _May 2019 – Aug. 2021_ · 2 yrs 4 mos
+**[TOGIC](http://www.51togic.com)** | _May 2019 – Aug. 2021_ · 2 yrs 4 mos
 
-> Shenzhen [Togic](http://www.51togic.com) Software Technology Co. was established in 2010. The company focuses on home Internet TV clients, with its Togic (similar to Netflix) and WEBOX (similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
+> Shenzhen Togic Software Technology Co. was established in 2010. The company focuses on home Internet TV clients, with its Togic (similar to Netflix) and WEBOX (similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
 
 ### Offline Data Warehouse
 
@@ -100,9 +100,9 @@ The log collection service is one of the most important service of the whole com
 
 ## Backend Engineer
 
-**WEBSTUDIO** | _Jul. 2018 – Apr. 2019_ · 10 mos
+**[WEBSTUDIO](http://www.wbdatavis.com)** | _Jul. 2018 – Apr. 2019_ · 10 mos
 
-> Beijing [Webstudio](http://www.wbdatavis.com) Information Technology Co. was founded in 2007 and focuses on quality-based and innovative development, providing data analysis and visualization, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
+> Beijing Webstudio Information Technology Co. was founded in 2007 and focuses on quality-based and innovative development, providing data analysis and visualization, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
 
 - Implemented backend APIs of big data visualization dashboards and general reports for the `BI` applications;
 - Developed more than 30 **data operators**, such as summation, date conversion, string processing etc.;
@@ -115,9 +115,9 @@ The log collection service is one of the most important service of the whole com
 
 ## Software Engineer (Internship)
 
-**KEG-THU** | _Feb. 2018 – Jul. 2018_ · 6 mos
+**[KEG-THU](https://keg.cs.tsinghua.edu.cn)** | _Feb. 2018 – Jul. 2018_ · 6 mos
 
-> The Knowledge Engineering Group ([KEG](https://keg.cs.tsinghua.edu.cn)) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic web, knowledge graph construction, etc.
+> The Knowledge Engineering Group (KEG) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic web, knowledge graph construction, etc.
 
 - Organized and annotated critical illness insurance documents;
 - Trained models to extract the logical structure of insurance documents by using `GROBID`;
@@ -131,9 +131,9 @@ The log collection service is one of the most important service of the whole com
 
 # Open Source
 
-## [Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
+## Dapp-Learning
 
-**Dapp Learning DAO** | _Apr. 2022 – Present_
+**[Dapp Learning DAO](https://github.com/Dapp-Learning-DAO)** | _Apr. 2022 – Present_
 
 > Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
 > Step-by-step Dapp practice through actual projects.
