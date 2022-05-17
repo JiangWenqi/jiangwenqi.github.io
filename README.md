@@ -24,7 +24,7 @@ Besides daily work, I am constantly looking for new challenges, I learned to `Re
 
 ## Contact
 
-- Mobile: [+34 691-752-157](tel:+34-691752157)
+- Mobile: KzM0IDY5MS03NTItMTU3
 - Email: [jiangwenqi1995@gmail.com](mailto:jiangwenqi1995@gmail.com)
 - Online Resume: [jiangwenqi.info](https://jiangwenqi.info/)
 - GitHub: [github.com/jiangwenqi](https://github.com/jiangwenqi)
@@ -178,4 +178,3 @@ The major subjects include:
 - Advanced Math / Linear Algebra / Discrete Mathematics / Probability and Statistics;
 - Programming Languages: C, C++, Java;
 - Data Structure, Algorithm, etc.
-
