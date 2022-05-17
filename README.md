@@ -44,7 +44,7 @@ Besides daily work, I am constantly looking for new challenges, I learned to `Re
 
 _Feb. 2022 – Present_
 
-| A student **scholarship** for the development of linking algorithms and graph linkers.
+A student **scholarship** for the development of linking algorithms and graph linkers.
 
 - Analyzed the **ontologies** in different data sources;
 - Specification and development of **linking discovery** algorithms, including text similarity and geographic relationship;
@@ -133,7 +133,7 @@ The log collection service is one of the most important service of the whole com
 
 ## [Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
 
-_Apr. 2022 – Present_
+**Dapp Learning DAO** | _Apr. 2022 – Present_
 
 > Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
 > Step-by-step Dapp practice through actual projects.
