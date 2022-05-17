@@ -60,7 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   Besides daily work, I am constantly looking for new challenges, I learned to `React`/`Flutter`. Recently, I have been working on **Web 3.0** in my spare time.
 
-
 content:
   - title: Experience and Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -74,7 +73,7 @@ content:
         caption: Dec. 2021 - Present
         quote: >
           Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
-      - layout: right
+      - layout: left
         border: weak
         title: LOOM-LD
         link: github.com/oeg-upm/loom-ld
@@ -87,11 +86,12 @@ content:
           A student scholarship for the development of linking algorithms and graph linkers.
 
         description: | # this will include new lines to allow paragraphs
-          - Analyzed the **ontologies** in different data sources;
-          - Specification and development of **linking discovery** algorithms, including text similarity and geographic relationship;
-          - Development of a `Sparql-based` knowledge graph linker using customized `Apache Jena` functions;
-          - Evaluation of the algorithms with **OAEI-2021** datasets;
-          - Complement of the master's thesis.
+          **_Tasks_**: 
+            - Analyzed the **ontologies** in different data sources;
+            - Specification and development of **linking discovery** algorithms, including text similarity and geographic relationship;
+            - Development of a `Sparql-based` knowledge graph linker using customized `Apache Jena` functions;
+            - Evaluation of the algorithms with **OAEI-2021** datasets;
+            - Complement of the master's thesis.
 
           **_Keywords_**: <mark>Ontology</mark> <mark>Graph Linker</mark> <mark>RDF</mark> <mark>Text Similarity</mark> <mark>DE-9IM</mark> <mark>WKT</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>
 
@@ -136,9 +136,7 @@ content:
           The log collection service is one of the most important service of the whole company, all data uploaded will be backed up into Data Warehouse for statistics.
         description: | # this will include new lines to allow paragraphs
           - **Restructured** the log collection service to improve performance and stability;
-
           - Used `Nginx` and `Netty` to receive and forward logs, and handle error data;
-
           - Produced all logs into the message queue of `Kafka`, which has five brokers, three data backups, and seven days of log redundancy to **improve the robustness** of this service.
 
           **_Keywords_**: <mark>Nginx</mark> <mark>Netty</mark> <mark>Java</mark> <mark>Kafka</mark> <mark>HDFS</mark>
@@ -153,12 +151,13 @@ content:
         quote: >
           Beijing Webstudio Information Technology Co. was founded in 2007 and focuses on quality-based and innovative development, providing data analysis and visualization, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
         description: | # this will include new lines to allow paragraphs
-          - Implemented backend APIs of big data visualization dashboards and general reports for the `BI` applications;
-          - Developed more than 30 **data operators**, such as summation, date conversion, string processing etc.;
-          - Implemented the one-click function of syncing all user information;
-          - Expanded 16 data sources, including `MySQL`, `SQL Server`, `MongoDB` etc.;
-          - Built and maintained the big data platform;
-          - Fixed bugs and developed **new features** for the previous company's projects.
+          **_Tasks_**: 
+            - Implemented backend APIs of big data visualization dashboards and general reports for the `BI` applications;
+            - Developed more than 30 **data operators**, such as summation, date conversion, string processing etc.;
+            - Implemented the one-click function of syncing all user information;
+            - Expanded 16 data sources, including `MySQL`, `SQL Server`, `MongoDB` etc.;
+            - Built and maintained the big data platform;
+            - Fixed bugs and developed **new features** for the previous company's projects.
 
           **_Keywords_**: <mark>Dubbo</mark> <mark>Spring Boot</mark> <mark>MyBatis</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Nginx</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>Docker</mark> <mark>FastDFS</mark> <mark>CDH</mark> <mark>Hadoop</mark> <mark>HBase</mark> <mark>Impala</mark> <mark>Spark ML</mark>
 
@@ -171,11 +170,12 @@ content:
         quote: >
           The Knowledge Engineering Group (KEG) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic web, knowledge graph construction, etc.
         description: | # this will include new lines to allow paragraphs
-          - Organized and annotated critical illness insurance documents;
-          - Trained models to extract the logical structure of insurance documents by using `GROBID`;
-          - Created a desktop application using above models;
-          - Maintained datasets in `NoSQL database`, like MongoDB, Neo4j;
-          - Completed the thesis.
+          **_Tasks_**: 
+            - Organized and annotated critical illness insurance documents;
+            - Trained models to extract the logical structure of insurance documents by using `GROBID`;
+            - Created a desktop application using above models;
+            - Maintained datasets in `NoSQL database`, like MongoDB, Neo4j;
+            - Completed the thesis.
 
           **_Keywords_**: <mark>NLP</mark> <mark>CRF</mark> <mark>GROBID</mark> <mark>Neo4j</mark> <mark>MongoDB</mark> <mark>Java FX</mark>
 
@@ -195,49 +195,48 @@ content:
         quote: >
           Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
           Step-by-step Dapp practice through actual projects.
-        description: | # this will include new lines to allow paragraphs
-          - Contributions of various tutorial tasks;
-          - Translations of the basic tasks;
-          - Shares of the latest blockchain news and cutting-edge technics in community.
+        description: |
+          **_Tasks_**: 
+            - Contributions of various tutorial tasks;
+            - Translations of the basic tasks;
+            - Shares of the latest blockchain news and cutting-edge technics in community.
 
           **_Keywords_**: <mark>Blockchain</mark> <mark>web3.js</mark> <mark>Solidity</mark> <mark>Dapp</mark> <mark>Ethereum</mark> <mark>Hardhat</mark> <mark>Alchemy</mark> <mark>Infura</mark> <mark>DAO</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Polytechnic University of Madrid
+      - layout: right
+        title: MS Data Science
         caption: 2021 - Present
-        sub_title: MS Data Science
+        sub_title: Polytechnic University of Madrid
         quote: >
           The Polytechnic University of Madrid (UPM) is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century.
           The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
         description: | # this will include new lines to allow paragraphs
-          The major subjects include:
+          **The major subjects**:
+            - Big Data / Cloud Computing and Big Data Ecosystems Design;
+            - Data Processes / Information Retrieval, Extraction and Integration / Time Series Data Mining;
+            - Statistical Data Analysis / Machine Learning;
+            - Open Data and Knowledge Graphs / Intelligent Systems / Deep Learning;
+            - Introduction to Research Methodology / Ethical, Legal and Social Aspects etc.
 
-          - Big Data / Cloud Computing and Big Data Ecosystems Design;
-          - Data Processes / Information Retrieval, Extraction and Integration / Time Series Data Mining;
-          - Statistical Data Analysis / Machine Learning;
-          - Open Data and Knowledge Graphs / Intelligent Systems / Deep Learning;
-          - Introduction to Research Methodology / Ethical, Legal and Social Aspects etc.
-
-      - layout: top-middle
-        title: Beijing Information Science & Technology University
+      - layout: right
+        title: BE Computer Science & Technology
         caption: 2014 - 2018
-        sub_title: BE Computer Science & Technology
+        sub_title: Beijing Information Science & Technology University
         quote: >
           The Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
           It offers an excellent academic discipline system in information science and technology and servers around 15,000 students from China and abroad.
 
         description: | # this will include new lines to allow paragraphs
-          The major subjects include:
-
-          - Principles of Computer Compositions / Computer Architectures;
-          - Compilation Principles / Practice of Embedded Application System;
-          - Operating System / Principles and Applications of Database;
-          - Advanced Math / Linear Algebra / Discrete Mathematics / Probability and Statistics;
-          - Programming Languages: C, C++, Java;
-          - Data Structure, Algorithm, etc.
+          **The major subjects**:
+            - Principles of Computer Compositions / Computer Architectures;
+            - Compilation Principles / Practice of Embedded Application System;
+            - Operating System / Principles and Applications of Database;
+            - Advanced Math / Linear Algebra / Discrete Mathematics / Probability and Statistics;
+            - Programming Languages: C, C++, Java;
+            - Data Structure, Algorithm, etc.
 
   - title: A Little More About Me
     layout: text
