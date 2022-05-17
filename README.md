@@ -123,7 +123,7 @@ _Feb 2018 – Jul 2018_ · 6 mos
 
 # Open Source
 
-## [DApp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
+## [Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
 
 Apr 2022 – Present
 
