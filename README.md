@@ -30,9 +30,9 @@ Besides daily work, I am constantly looking for new challenges, I learned to `Re
 
 _Dec. 2021 – Present_
 
-> **Ontology Engineering Group([OEG](oeg.fi.upm.es))** is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of **semantic technologies**, **linguistic engineering** and **data integration**.
+> **Ontology Engineering Group([OEG](https://oeg.fi.upm.es))** is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of **semantic technologies**, **linguistic engineering** and **data integration**.
 
-### [LOOM-LD](github.com/oeg-upm/loom-ld)
+### [LOOM-LD](https://github.com/oeg-upm/loom-ld)
 
 _Feb. 2022 – Present_
 
@@ -50,7 +50,7 @@ _Feb. 2022 – Present_
 
 _May 2019 – Aug. 2021_ · 2 yrs 4 mos
 
-> **Shenzhen [Togic](www.51togic.com) Software Technology Co.** was established in 2010. The company focuses on home Internet TV clients, with its **Togic** (similar to Netflix) and **WEBOX** (similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over **700,000** daily users on this platform, and near **9 million** customers worldwide used these products.
+> **Shenzhen [Togic](http://www.51togic.com) Software Technology Co.** was established in 2010. The company focuses on home Internet TV clients, with its **Togic** (similar to Netflix) and **WEBOX** (similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over **700,000** daily users on this platform, and near **9 million** customers worldwide used these products.
 
 ### Offline Data Warehouse
 
@@ -94,7 +94,7 @@ _Sept. 2019 – Sept. 2019_
 
 _Jul 2018 – Apr 2019_ · 10 mos
 
-> **Beijing [Webstudio](www.wbdatavis.com) Information Technology Co.** was founded in 2007 and focuses on quality-based and innovative development, providing data analysis and **visualization**, as well as **official website** marketing solutions which span a wide range of business disciplines and application situations.
+> **Beijing [Webstudio](http://www.wbdatavis.com) Information Technology Co.** was founded in 2007 and focuses on quality-based and innovative development, providing data analysis and **visualization**, as well as **official website** marketing solutions which span a wide range of business disciplines and application situations.
 
 - Implemented backend APIs of big data visualization dashboards and general reports for the `BI` applications;
 - Developed more than 30 **data operators**, such as summation, date conversion, string processing etc.;
@@ -109,7 +109,7 @@ _Jul 2018 – Apr 2019_ · 10 mos
 
 _Feb 2018 – Jul 2018_ · 6 mos
 
-> **The Knowledge Engineering Group ([KEG](keg.cs.tsinghua.edu.cn))** of Tsinghua University established in 1996, and devotes to research on **social network analysis**, **news mining**, **semantic web**, **knowledge graph construction**, etc.
+> **The Knowledge Engineering Group ([KEG](https://keg.cs.tsinghua.edu.cn))** of Tsinghua University established in 1996, and devotes to research on **social network analysis**, **news mining**, **semantic web**, **knowledge graph construction**, etc.
 
 - Organized and annotated critical illness insurance documents;
 - Trained models to extract the logical structure of insurance documents by using `GROBID`;
@@ -123,7 +123,7 @@ _Feb 2018 – Jul 2018_ · 6 mos
 
 # Open Source
 
-## [DApp-Learning](github.com/Dapp-Learning-DAO/Dapp-Learning)
+## [DApp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
 
 Apr 2022 – Present
 
@@ -177,6 +177,6 @@ The major subjects include:
 
 - Mobile: [+34 691-752-157](tel:+34-691752157)
 - Email: [jiangwenqi1995@gmail.com](mailto:jiangwenqi1995@gmail.com)
-- Online Resume: [jiangwenqi.info](jiangwenqi.info)
-- GitHub: [github.com/jiangwenqi](github.com/jiangwenqi)
-- Blog: [dev.to/jiangwenqi](dev.to/jiangwenqi)
+- Online Resume: [jiangwenqi.info](https://jiangwenqi.info/)
+- GitHub: [github.com/jiangwenqi](https://github.com/jiangwenqi)
+- Blog: [dev.to/jiangwenqi](https://dev.to/jiangwenqi)
