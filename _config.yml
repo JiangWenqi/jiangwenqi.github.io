@@ -74,7 +74,7 @@ content:
         quote: >
           Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
       - layout: left
-        border: weak
+        # border: weak
         title: LOOM-LD
         link: github.com/oeg-upm/loom-ld
         additional_links:
@@ -131,7 +131,7 @@ content:
       - layout: left
         title: Log Collection Service
         caption: Sept. 2019 - Sept. 2019
-        border: weak
+        # border: weak
         quote: >
           The log collection service is one of the most important service of the whole company, all data uploaded will be backed up into Data Warehouse for statistics.
         description: | # this will include new lines to allow paragraphs
@@ -142,7 +142,7 @@ content:
           **_Keywords_**: <mark>Nginx</mark> <mark>Netty</mark> <mark>Java</mark> <mark>Kafka</mark> <mark>HDFS</mark>
 
       - layout: top-middle
-        border: weak
+        # border: weak
         title: Backend Engineer
         link: wbdatavis.com
         # link_text: boringcompany.com
@@ -187,7 +187,6 @@ content:
         caption: Apr. 2022 - Present
         link: github.com/Dapp-Learning-DAO
         # link_text: Project Website
-        # caption: Jan 2022 - July 2022
         additional_links:
           - title: DAPP-LEARNING
             icon: fab fa-github
@@ -206,7 +205,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: top-middle
         title: MS Data Science
         caption: 2021 - Present
         sub_title: Polytechnic University of Madrid
@@ -221,7 +220,7 @@ content:
             - Open Data and Knowledge Graphs / Intelligent Systems / Deep Learning;
             - Introduction to Research Methodology / Ethical, Legal and Social Aspects etc.
 
-      - layout: right
+      - layout: top-middle
         title: BE Computer Science & Technology
         caption: 2014 - 2018
         sub_title: Beijing Information Science & Technology University
