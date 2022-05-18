@@ -8,9 +8,9 @@ Hello, my name is Wenqi Jiang.
 
 I'm now studying a master's degree in **Data Science** at the Polytechnic University of Madrid (UPM) while working as an **ontology engineer** at Ontology Engineering Group (OEG).
 
-Before that, I worked in mainland China for over three years as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: `Spark`/`Flink`/`Elasticsearch`/`Spring` and `Java`/`Scala`/`Python`.
+Before that, I worked in mainland China for over three years as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: `Spark` / `Flink` / `Elasticsearch` / `Spring` and `Java` / `Scala` / `Python`.
 
-Besides daily work, I am constantly looking for new challenges, I learned to `React`/`Flutter`. Recently, I have been working on **Web 3.0** in my spare time.
+Besides daily work, I am constantly looking for new challenges, I learned to `React` / `Flutter`. Recently, I have been working on **Web 3.0** in my spare time.
 
 | Category                 | Techniques                                                                                     |
 | ------------------------ | ---------------------------------------------------------------------------------------------- |
