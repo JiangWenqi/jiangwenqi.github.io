@@ -1,14 +1,12 @@
 # Wenqi Jiang
 
-Data Engineer / Backend Engineer
-
-## About Me
+**Data Engineer / Backend Engineer**
 
 My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data** infrastructure and **backend** services, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`.
 
 Currently, I'm working with the Ontology Engineering Group (OEG) and studying for a master's degree in Data Science from the Polytechnic University of Madrid (UPM). In addition to my regular duties, I have learned to `react` and `flutter` for searching for new challenges.
 
-### Contact
+**Contact:**
 
 - Mobile: KzM0IDY5MS03NTItMTU3
 - Email: [jiangwenqi1995@gmail.com](mailto:jiangwenqi1995@gmail.com)
@@ -16,17 +14,15 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 - GitHub: [github.com/jiangwenqi](https://github.com/jiangwenqi)
 - Blog: [dev.to/jiangwenqi](https://dev.to/jiangwenqi)
 
----
-
-## Experience and Projects
+## Experience
 
 ### Ontology Engineer (Scholarship)
 
 **[OEG-UPM](https://oeg.fi.upm.es)** | _Dec. 2021 - Present_
 
-#### [LOOM-LD](https://github.com/oeg-upm/loom-ld)
-
 > A student scholarship for the development of linking algorithms and graph linkers.
+
+#### [LOOM-LD](https://github.com/oeg-upm/loom-ld)
 
 - Analyzed ontologies from different data sources;
 - Specialized 7 linking discovery algorithms, including text similarity and spatial relationships;
@@ -35,8 +31,6 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 - Completed the master's thesis.
 
 **_Keywords_**: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`
-
----
 
 ### Big Data Engineer
 
@@ -77,7 +71,7 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 - Maintained the big data platform;
 - Fixed bugs and developed new features for the previous company's projects.
 
-**_Keywords_**: `Dubbo` `Spring Boot` `MyBatis` `Hibernate` `Java` `Nginx` `MySQL` `Redis` `Docker` `FastDFS` `CDH` `Hadoop` `HBase` `Impala` `Spark ML`
+**_Keywords_**: `Dubbo` `Spring Boot` `MyBatis` `Hibernate` `Nginx` `Docker` `FastDFS` `CDH` `HBase` `Impala`
 
 ### Software Engineer (Internship)
 
@@ -91,8 +85,6 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 **_Keywords_**: `NLP` `CRF` `GROBID` `Neo4j` `MongoDB` `Java FX`
 
----
-
 ## Open Source
 
 ### Dapp-Learning
@@ -105,14 +97,7 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 **_Keywords_**: `Blockchain` `web3.js` `Solidity` `Dapp` `Ethereum` `Hardhat` `Alchemy` `Infura` `DAO`.
 
----
-
 ## Education
 
-### MS Data Science
-
-**Polytechnic University of Madrid** | _2021 - Present_
-
-### BE Computer Science & Technology
-
-**Beijing Information Science & Technology University** | _2014 - 2018_
+- **MS Data Science** · Polytechnic University of Madrid | _2021 - Present_
+- **BE Computer Science & Technology** · Beijing Information Science & Technology University | _2014 - 2018_
