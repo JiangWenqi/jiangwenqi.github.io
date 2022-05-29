@@ -20,17 +20,17 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 _Dec. 2021 - Present_
 
-> A student scholarship for the development of linking algorithms and graph linkers.
+> A student scholarship for the development of linking algorithms and graph linkers.
 
 #### [LOOM-LD](https://github.com/oeg-upm/loom-ld)
 
-- Analyzed ontologies from different data sources;
+- Analyzed ontologies from different data sources;
 - Specialized 7 linking discovery algorithms, including text similarity and spatial relationships;
-- Implemented a Sparql-based knowledge graph linker using customized Apache Jena functions;
-- Evaluated those algorithms with OAEI-2021 datasets;
+- Implemented a Sparql-based knowledge graph linker using customized Apache Jena functions;
+- Evaluated those algorithms with OAEI-2021 datasets;
 - Completed the master's thesis.
 
-**_Keywords_**: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`
+**_Keywords_**: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`
 
 ### [TOGIC](http://www.51togic.com) ｜ Big Data Engineer
 
@@ -39,8 +39,8 @@ _May 2019 - Aug. 2021_ · 2 yrs 4 mos
 #### Offline Data Warehouse
 
 - Designed a STAR model Data Warehouse, which contained four-layer: ODS, DWD, DWS, and ADS, saving over 80% of storage and fixing small files' problems on HDFS;
-- Developed and managed the Data Warehouse, which comprises over 150 tables and 200 TB of data, including user and system logs from Togic and Webox, producing 300 GB each day;
-- Upgraded almost all big data components, including HDFS, Spark, Kafka etc.
+- Developed and managed the Data Warehouse, which comprises over 150 tables and 200 TB of data, including user and system logs from Togic and Webox, producing 300 GB each day;
+- Upgraded almost all big data components, including HDFS, Spark, Kafka etc.
 
 **_Keywords_**: `CDH` `Kafka` `HDFS` `HIVE` `Spark`
 
@@ -54,9 +54,9 @@ _May 2019 - Aug. 2021_ · 2 yrs 4 mos
 
 #### Log Collection Service
 
-- Designed and implemented the log collection pipeline based on Nginx and Netty, improving performance and stability;
+- Designed and implemented the log collection pipeline based on Nginx and Netty, improving performance and stability;
 
-- Processed all logs into the message queues in Kafka, which has five brokers, three data backups, and seven days of log redundancy, improving the robustness of this service.
+- Processed all logs into the message queues in Kafka, which has five brokers, three data backups, and seven days of log redundancy, improving the robustness of this service.
 
 **_Keywords_**: `Nginx` `Netty` `Java` `Kafka` `HDFS`
 
@@ -100,5 +100,4 @@ _Apr. 2022 - Present_
 ## Education
 
 - **MS Data Science** · Polytechnic University of Madrid ｜ _2021 - Present_
-
 - **BE Computer Science & Technology** · Beijing Information Science & Technology University | _2014 - 2018_

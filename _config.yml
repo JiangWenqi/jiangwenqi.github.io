@@ -49,16 +49,12 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-# about_profile_image: images/profile.jpg
+about_title: About Me
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Wenqi Jiang.
+  My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data** infrastructure and **backend** services, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`.
 
-  I'm now studying a master's degree in **Data Science** at the Polytechnic University of Madrid (UPM) while working as an **ontology engineer** at Ontology Engineering Group (OEG).
-
-  Before that, I worked in mainland China for over three years as a **big data engineer** and **backend engineer**, so I have experience in handling Tbs data, and I am most skilled in: `Spark`/`Flink`/`Elasticsearch`/`Spring` and `Java`/`Scala`/`Python`.
-
-  Besides daily work, I am constantly looking for new challenges, I learned to `React`/`Flutter`. Recently, I have been working on **Web 3.0** in my spare time.
+  Currently, I'm working with the Ontology Engineering Group (OEG) and studying for a master's degree in Data Science from the Polytechnic University of Madrid (UPM). In addition to my regular duties, I have learned to `react` and `flutter` for searching for new challenges.
 
 content:
   - title: Experience and Projects # Title for the section
@@ -90,11 +86,11 @@ content:
         #   caption: Feb. 2022 - Present
 
         description: | # this will include new lines to allow paragraphs
-          - Analyzed the **ontologies** in different data sources;
-          - Specification and development of **linking discovery** algorithms, including text similarity and geographic relationship;
-          - Development of a `Sparql-based` knowledge graph linker using customized `Apache Jena` functions, which names [LOOM-LD](https://github.com/oeg-upm/loom-ld);
-          - Evaluation of the algorithms with **OAEI-2021** datasets;
-          - Complement of the master's thesis.
+          - Analyzed ontologies from different data sources;
+          - Specialized 7 linking discovery algorithms, including text similarity and spatial relationships;
+          - Implemented a Sparql-based knowledge graph linker using customized `Apache Jena` functions;
+          - Evaluated those algorithms with `OAEI-2021` datasets;
+          - Completed the master's thesis.
 
           **_Keywords_**: <mark>Ontology</mark> <mark>Graph Linker</mark> <mark>RDF</mark> <mark>Text Similarity</mark> <mark>DE-9IM</mark> <mark>WKT</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>
 
@@ -105,8 +101,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Shenzhen Togic Software Technology Co.
         caption: May 2019 - Aug. 2021 · 2 yrs 4 mos
-        # quote: >
-        #   Shenzhen Togic Software Technology Co. was established in 2010. The company focuses on home Internet TV clients, with its Togic (similar to Netflix) and WEBOX (similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
+        quote: >
+          Shenzhen Togic Software Technology Co. was established in 2010. The company focuses on home Internet TV clients, with its Togic (similar to Netflix) and WEBOX (similar to Apple TV) delivering a simple, intuitive, and lightweight experience for family entertainment, quickly becoming the most popular app on TV systems. There are currently over 700,000 daily users on this platform, and near 9 million customers worldwide used these products.
 
         # - layout: left
         # title: Offline Data Warehouse
@@ -115,30 +111,30 @@ content:
         #   Togic's offline data warehouse serves as the company's data center, providing data support for daily operation, procurement, and decision-making.
         description: | # this will include new lines to allow paragraphs
           #### Offline Data Warehouse
-           
-          - The data warehouse contains over **200 TB** of data and more than 150 tables, including user activity logs and system logs from the Togic App and Webox System, which generate over **300 GB** of data every day.
-          - The data warehouse structure is **STAR** modelling and is organized into four layers: ODS, DWD, DWS, and ADS, which saved over **80%** storage space and eased the small files' problem on `HDFS`.
+
+          - Designed a **STAR** model Data Warehouse, which contained four-layer: ODS, DWD, DWS, and ADS, saving over 80% of storage and fixing small files' problems on HDFS;
+          - Developed and managed the Data Warehouse, which comprises over 150 tables and 200 TB of data, including user and system logs from **Togic** and **Webox**, producing 300 GB each day;
+          - Upgraded almost all big data components, including `HDFS`, `Spark`, `Kafka` etc.
 
           **_Keywords_**: <mark>CDH</mark> <mark>Kafka</mark> <mark>HDFS</mark> <mark>HIVE</mark> <mark>Spark</mark>
 
           ---
 
           #### Data Statistics System
-           
-          - The statistics system was **restructured** based on the new Offline Data Warehouse, and almost all big data components **upgraded**, including `HDFS`, `Spark`, `Kafka` etc.;
-          - The code was rewritten by using **DataFrames**, and was more readable and maintainable, which **reduced the process time** to 1/4 of the previous one.
-          - Implemented more than **30 new statistical items** and generated reports;
-          - Fixed the bugs that the former system caused.
+
+          - Restructured the statistics system based on the new Offline Data Warehouse;
+          - Rewrote the code by using `DataFrame`, making them more readable and maintainable, and reducing the process time to 25% compared to the previous one;
+          - Implemented more than 30 new statistical demands and fixed bugs.
 
           **_Keywords_**: <mark>Sqoop</mark> <mark>Hive</mark> <mark>Spark SQL</mark> <mark>Scala</mark> <mark>Elasticsearch</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>Python</mark>
 
           ---
 
           #### Log Collection Service
-           
-          - **Restructured** the log collection service to improve performance and stability;
-          - Used `Nginx` and `Netty` to receive and forward logs, and handle error data;
-          - Produced all logs into the message queue of `Kafka`, which has five brokers, three data backups, and seven days of log redundancy to **improve the robustness** of this service.
+
+          - Designed and implemented the log collection pipeline based on `Nginx` and `Netty`, improving performance and stability;
+
+          - Processed all logs into the message queues in `Kafka`, which has five brokers, three data backups, and seven days of log redundancy, improving the robustness of this service.
 
           **_Keywords_**: <mark>Nginx</mark> <mark>Netty</mark> <mark>Java</mark> <mark>Kafka</mark> <mark>HDFS</mark>
 
@@ -146,18 +142,17 @@ content:
         border: weak
         title: Backend Engineer
         link: wbdatavis.com
-        # link_text: boringcompany.com
         sub_title: Beijing Webstudio Information Technology Co.
         caption: Jul. 2018 - Apr. 2019 · 10 mos
-        # quote: >
-        #   Beijing Webstudio Information Technology Co. was founded in 2007 and focuses on quality-based and innovative development, providing data analysis and visualization, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
+        quote: >
+          Beijing Webstudio Information Technology Co. was founded in 2007 and focuses on quality-based and innovative development, providing data analysis and visualization, as well as official website marketing solutions which span a wide range of business disciplines and application situations.
         description: | # this will include new lines to allow paragraphs
-          - Implemented backend APIs of big data visualization dashboards and general reports for the `BI` applications;
-          - Developed more than 30 **data operators**, such as summation, date conversion, string processing etc.;
+          - Implemented backend APIs of big data visualization dashboards and general reports for the BI applications;
+          - Developed more than 25 data operators, such as summation, date conversion, string processing etc.;
           - Implemented the one-click function of syncing all user information;
           - Expanded 16 data sources, including `MySQL`, `SQL Server`, `MongoDB` etc.;
-          - Built and maintained the big data platform;
-          - Fixed bugs and developed **new features** for the previous company's projects.
+          - Maintained the big data platform;
+          - Fixed bugs and developed new features for the previous company's projects.
 
           **_Keywords_**: <mark>Dubbo</mark> <mark>Spring Boot</mark> <mark>MyBatis</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Nginx</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>Docker</mark> <mark>FastDFS</mark> <mark>CDH</mark> <mark>Hadoop</mark> <mark>HBase</mark> <mark>Impala</mark> <mark>Spark ML</mark>
 
@@ -167,8 +162,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Knowledge Engineering Group
         caption: Feb. 2018 - Jul. 2018 · 6 mos
-        # quote: >
-        #   The Knowledge Engineering Group (KEG) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic web, knowledge graph construction, etc.
+        quote: >
+          The Knowledge Engineering Group (KEG) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic web, knowledge graph construction, etc.
         description: | # this will include new lines to allow paragraphs
           - Organized and annotated critical illness insurance documents;
           - Trained models to extract the logical structure of insurance documents by using `GROBID`;
@@ -190,14 +185,13 @@ content:
           - title: DAPP-LEARNING
             icon: fab fa-github
             url: github.com/Dapp-Learning-DAO/Dapp-Learning
-        # quote: >
-        #   Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
-        #   Step-by-step Dapp practice through actual projects.
+        quote: >
+          Definitive Guide for Decentralized-app(Dapp) Development on Blockchain.
+          Step-by-step Dapp practice through actual projects.
         description: |
-
-          - Contributions of various tutorial tasks;
-          - Translations of the basic tasks;
-          - Shares of the latest blockchain news and cutting-edge technics in community.
+          - Contributed various tutorial tasks;
+          - Translated the basic tasks;
+          - Shared the latest blockchain news and cutting-edge technics in the community.
 
           **_Keywords_**: <mark>Blockchain</mark> <mark>web3.js</mark> <mark>Solidity</mark> <mark>Dapp</mark> <mark>Ethereum</mark> <mark>Hardhat</mark> <mark>Alchemy</mark> <mark>Infura</mark> <mark>DAO</mark>.
 
@@ -208,9 +202,9 @@ content:
         title: MS Data Science
         caption: 2021 - Present
         sub_title: Polytechnic University of Madrid
-        # quote: >
-        #   The Polytechnic University of Madrid (UPM) is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century.
-        #   The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
+        quote: >
+          The Polytechnic University of Madrid (UPM) is a public university was founded in 1971 as the result of merging different Technical Schools of Engineering and Architecture, originating mainly in the 18th century.
+          The Engineering and Architecture Schools of UPM have contributed significantly to the history of Spanish technology.
         description: | # this will include new lines to allow paragraphs
           **The major subjects**:
             - Big Data / Cloud Computing and Big Data Ecosystems Design;
@@ -223,9 +217,9 @@ content:
         title: BE Computer Science & Technology
         caption: 2014 - 2018
         sub_title: Beijing Information Science & Technology University
-        # quote: >
-        #   The Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
-        #   It offers an excellent academic discipline system in information science and technology and servers around 15,000 students from China and abroad.
+        quote: >
+          The Beijing Information Science and Technology University (BISTU) was founded in 2008 by merging the Beijing Machinery Industry Institute and the Beijing Information Engineering College, which are both created in the 19th century.
+          It offers an excellent academic discipline system in information science and technology and servers around 15,000 students from China and abroad.
 
         description: | # this will include new lines to allow paragraphs
           **The major subjects**:
