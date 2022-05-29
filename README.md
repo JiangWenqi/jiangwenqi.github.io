@@ -99,5 +99,6 @@ _Apr. 2022 - Present_
 
 ## Education
 
-**MS Data Science** · Polytechnic University of Madrid ｜ _2021 - Present_
-**BE Computer Science & Technology** · Beijing Information Science & Technology University | _2014 - 2018_
+- **MS Data Science** · Polytechnic University of Madrid ｜ _2021 - Present_
+
+- **BE Computer Science & Technology** · Beijing Information Science & Technology University | _2014 - 2018_
