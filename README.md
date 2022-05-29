@@ -6,7 +6,7 @@ Data Engineer / Backend Engineer
 
 My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data** infrastructure and **backend** services, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`.
 
-Currently, I'm working with the Ontology Engineering Group (OEG) and studying for a master's degree in Data Science from the Polytechnic University of Madrid (UPM). In addition to my regular duties, I am constantly searching for new challenges. I have learned to `react` and `flutter`.
+Currently, I'm working with the Ontology Engineering Group (OEG) and studying for a master's degree in Data Science from the Polytechnic University of Madrid (UPM). In addition to my regular duties, I have learned to `react` and `flutter` for searching for new challenges.
 
 ### Contact
 
@@ -30,11 +30,11 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 - Analyzed ontologies from different data sources;
 - Specialized 7 linking discovery algorithms, including text similarity and spatial relationships;
-- Implemented a Sparql-based knowledge graph linker using customized `Apache Jena` functions;
-- Evaluated those algorithms with **_OAEI-2021_** datasets;
+- Implemented a Sparql-based knowledge graph linker using customized Apache Jena functions;
+- Evaluated those algorithms with OAEI-2021 datasets;
 - Completed the master's thesis.
 
-**_Keywords_**: Ontology, Graph Linker, RDF, SPARQL, Apache Jena, Text Similarity, DE-9IM, WKT, OAEI
+**_Keywords_**: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`
 
 ---
 
@@ -44,27 +44,25 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 #### Offline Data Warehouse
 
-- The data warehouse contains over **200 TB** of data and more than 150 tables, including user activity logs and system logs from the Togic App and Webox System, which generate over **300 GB** of data every day.
-- The data warehouse structure is **STAR** modelling and is organized into four layers: ODS, DWD, DWS, and ADS, which saved over **80%** storage space and eased the small files' problem on `HDFS`.
+- Designed a STAR model Data Warehouse, which contained four-layer: ODS, DWD, DWS, and ADS, saving over 80% of storage and fixing small files' problems on HDFS;
+- Developed and managed the Data Warehouse, which comprises over 150 tables and 200 TB of data, including user and system logs from Togic and Webox, producing 300 GB each day;
+- Upgraded almost all big data components, including HDFS, Spark, Kafka etc.
 
 **_Keywords_**: `CDH` `Kafka` `HDFS` `HIVE` `Spark`
 
 #### Data Statistics System
 
-- The statistics system was **restructured** based on the new Offline Data Warehouse, and almost all big data components **upgraded**, including `HDFS`, `Spark`, `Kafka` etc.;
-- The code was rewritten by using **DataFrames**, and was more readable and maintainable, which **reduced the process time** to 1/4 of the previous one.
-- Implemented more than **30 new statistical items** and generated reports;
-- Fixed the bugs that the former system caused.
+- Restructured the statistics system based on the new Offline Data Warehouse;
+- Rewrote the code by using DataFrame, making them more readable and maintainable, and reducing the process time to 25% compared to the previous one;
+- Implemented more than 30 new statistical demands and fixed bugs.
 
-**_Keywords_**: `Sqoop` `Hive` `Spark SQL` `Scala` `Elasticsearch` `MySQL` `MongoDB` `Python`
+**_Keywords_**: `Sqoop` `Hive` `Spark SQL` `Scala` `Elasticsearch` `MySQL` `MongoDB`
 
 #### Log Collection Service
 
-- **Restructured** the log collection service to improve performance and stability;
+- Designed and implemented the log collection pipeline based on Nginx and Netty, improving performance and stability;
 
-- Used `Nginx` and `Netty` to receive and forward logs, and handle error data;
-
-- Produced all logs into the message queue of `Kafka`, which has five brokers, three data backups, and seven days of log redundancy to **improve the robustness** of this service.
+- Processed all logs into the message queues in Kafka, which has five brokers, three data backups, and seven days of log redundancy, improving the robustness of this service.
 
 **_Keywords_**: `Nginx` `Netty` `Java` `Kafka` `HDFS`
 
@@ -72,12 +70,12 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 **[WEBSTUDIO](http://www.wbdatavis.com)** | _Jul. 2018 - Apr. 2019_ · 10 mos
 
-- Implemented backend APIs of big data visualization dashboards and general reports for the `BI` applications;
-- Developed more than 30 **data operators**, such as summation, date conversion, string processing etc.;
+- Implemented backend APIs of big data visualization dashboards and general reports for the BI applications;
+- Developed more than 25 data operators, such as summation, date conversion, string processing etc.;
 - Implemented the one-click function of syncing all user information;
-- Expanded 16 data sources, including `MySQL`, `SQL Server`, `MongoDB` etc.;
-- Built and maintained the big data platform;
-- Fixed bugs and developed **new features** for the previous company's projects.
+- Expanded 16 data sources, including MySQL, SQL Server, MongoDB etc.;
+- Maintained the big data platform;
+- Fixed bugs and developed new features for the previous company's projects.
 
 **_Keywords_**: `Dubbo` `Spring Boot` `MyBatis` `Hibernate` `Java` `Nginx` `MySQL` `Redis` `Docker` `FastDFS` `CDH` `Hadoop` `HBase` `Impala` `Spark ML`
 
@@ -86,9 +84,9 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 **[KEG-THU](https://keg.cs.tsinghua.edu.cn)** | _Feb. 2018 - Jul. 2018_ · 6 mos
 
 - Organized and annotated critical illness insurance documents;
-- Trained models to extract the logical structure of insurance documents by using `GROBID`;
+- Trained models to extract the logical structure of insurance documents by using GROBID;
 - Created a desktop application using above models;
-- Maintained datasets in `NoSQL database`, like MongoDB, Neo4j;
+- Maintained datasets in NoSQL database, like MongoDB, Neo4j;
 - Completed the thesis.
 
 **_Keywords_**: `NLP` `CRF` `GROBID` `Neo4j` `MongoDB` `Java FX`
@@ -101,9 +99,9 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 **[Dapp Learning DAO](https://github.com/Dapp-Learning-DAO)** | _Apr. 2022 - Present_
 
-- Contributions of various tutorial tasks;
-- Translations of the basic tasks;
-- Shares of the latest blockchain news and cutting-edge technics in community.
+- Contributed various tutorial tasks;
+- Translated the basic tasks;
+- Shared the latest blockchain news and cutting-edge technics in the community.
 
 **_Keywords_**: `Blockchain` `web3.js` `Solidity` `Dapp` `Ethereum` `Hardhat` `Alchemy` `Infura` `DAO`.
 
