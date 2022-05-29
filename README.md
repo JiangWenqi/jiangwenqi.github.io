@@ -16,9 +16,9 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 ## Experience
 
-### Ontology Engineer (Scholarship)
+### [OEG-UPM](https://oeg.fi.upm.es) ｜ Ontology Engineer
 
-**[OEG-UPM](https://oeg.fi.upm.es)** | _Dec. 2021 - Present_
+_Dec. 2021 - Present_
 
 > A student scholarship for the development of linking algorithms and graph linkers.
 
@@ -32,9 +32,9 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 **_Keywords_**: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`
 
-### Big Data Engineer
+### [TOGIC](http://www.51togic.com) ｜ Big Data Engineer
 
-**[TOGIC](http://www.51togic.com)** | _May 2019 - Aug. 2021_ · 2 yrs 4 mos
+_May 2019 - Aug. 2021_ · 2 yrs 4 mos
 
 #### Offline Data Warehouse
 
@@ -60,9 +60,9 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 **_Keywords_**: `Nginx` `Netty` `Java` `Kafka` `HDFS`
 
-### Backend Engineer
+### [WEBSTUDIO](http://www.wbdatavis.com) ｜ Backend Engineer
 
-**[WEBSTUDIO](http://www.wbdatavis.com)** | _Jul. 2018 - Apr. 2019_ · 10 mos
+_Jul. 2018 - Apr. 2019_ · 10 mos
 
 - Implemented backend APIs of big data visualization dashboards and general reports for the BI applications;
 - Developed more than 25 data operators, such as summation, date conversion, string processing etc.;
@@ -73,9 +73,9 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 **_Keywords_**: `Dubbo` `Spring Boot` `MyBatis` `Hibernate` `Nginx` `Docker` `FastDFS` `CDH` `HBase` `Impala`
 
-### Software Engineer (Internship)
+### [KEG-THU](https://keg.cs.tsinghua.edu.cn) ｜ Software Engineering Intern
 
-**[KEG-THU](https://keg.cs.tsinghua.edu.cn)** | _Feb. 2018 - Jul. 2018_ · 6 mos
+_Feb. 2018 - Jul. 2018_ · 6 mos
 
 - Organized and annotated critical illness insurance documents;
 - Trained models to extract the logical structure of insurance documents by using GROBID;
@@ -87,9 +87,9 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 ## Open Source
 
-### Dapp-Learning
+### [Dapp Learning DAO](https://github.com/Dapp-Learning-DAO)
 
-**[Dapp Learning DAO](https://github.com/Dapp-Learning-DAO)** | _Apr. 2022 - Present_
+_Apr. 2022 - Present_
 
 - Contributed various tutorial tasks;
 - Translated the basic tasks;
@@ -99,5 +99,5 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 ## Education
 
-- **MS Data Science** · Polytechnic University of Madrid | _2021 - Present_
-- **BE Computer Science & Technology** · Beijing Information Science & Technology University | _2014 - 2018_
+**MS Data Science** · Polytechnic University of Madrid ｜ _2021 - Present_
+**BE Computer Science & Technology** · Beijing Information Science & Technology University | _2014 - 2018_
