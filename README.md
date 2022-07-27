@@ -18,7 +18,7 @@ Currently, I'm working with the Ontology Engineering Group (OEG) and studying fo
 
 ### [OEG-UPM](https://oeg.fi.upm.es) ｜ Ontology Engineer
 
-_Dec. 2021 - Present_
+_Dec. 2021 - Jul. 2022_
 
 > A student scholarship for the development of linking algorithms and graph linkers.
 
@@ -99,5 +99,5 @@ _Apr. 2022 - Present_
 
 ## Education
 
-- **MS Data Science** · Polytechnic University of Madrid ｜ _2021 - Present_
+- **MS Data Science** · Polytechnic University of Madrid ｜ _2021 - 2022_
 - **BE Computer Science & Technology** · Beijing Information Science & Technology University | _2014 - 2018_
