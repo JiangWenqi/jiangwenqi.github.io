@@ -2,9 +2,9 @@
 
 **Data Engineer / Backend Engineer**
 
-My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data** infrastructure and **backend** services, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`.
-
-Currently, I'm working with the Ontology Engineering Group (OEG) and studying for a master's degree in Data Science from the Polytechnic University of Madrid (UPM). In addition to my regular duties, I have learned to `react` and `flutter` for searching for new challenges.
+My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`. 
+In addition to my regular duties, I have learned to `React` and `Flutter` for searching for new challenges. 
+Furthermore, I enjoy powerlifting and traveling in my spare time.
 
 **Contact:**
 
@@ -28,7 +28,7 @@ _Dec. 2021 - Jul. 2022_
 - Specialized 7 linking discovery algorithms, including text similarity and spatial relationships;
 - Implemented a Sparql-based knowledge graph linker using customized Apache Jena functions;
 - Evaluated those algorithms with OAEI-2021 datasets;
-- Completed the master's thesis.
+- Completed the master's [thesis](https://oa.upm.es/71452/).
 
 **_Keywords_**: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`
 
@@ -50,7 +50,7 @@ _May 2019 - Aug. 2021_ · 2 yrs 4 mos
 - Rewrote the code by using DataFrame, making them more readable and maintainable, and reducing the process time to 25% compared to the previous one;
 - Implemented more than 30 new statistical demands and fixed bugs.
 
-**_Keywords_**: `Sqoop` `Hive` `Spark SQL` `Scala` `Elasticsearch` `MySQL` `MongoDB`
+**_Keywords_**: `Sqoop` `Hive` `Spark` `Scala` `Elasticsearch` `MySQL` `MongoDB`
 
 #### Log Collection Service
 
