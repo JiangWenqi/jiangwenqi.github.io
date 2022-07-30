@@ -2,8 +2,7 @@
 
 **Data Engineer / Backend Engineer**
 
-My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`. 
-In addition to my regular duties, I have learned to `React` and `Flutter` for searching for new challenges. 
+My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`. I have learned to use `React` and `Flutter` to search for new challenges.
 Furthermore, I enjoy powerlifting and traveling in my spare time.
 
 **Contact:**
@@ -95,7 +94,7 @@ _Apr. 2022 - Present_
 - Translated the basic tasks;
 - Shared the latest blockchain news and cutting-edge technics in the community.
 
-**_Keywords_**: `Blockchain` `web3.js` `Solidity` `Dapp` `Ethereum` `Hardhat` `Alchemy` `Infura` `DAO`.
+**_Keywords_**: `Blockchain` `Web3.js` `Solidity` `Dapp` `Ethereum` `Hardhat` `Alchemy` `Infura` `DAO`.
 
 ## Education
 
