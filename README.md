@@ -2,7 +2,7 @@
 
 **Data Engineer / Backend Engineer**
 
-My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`. I have learned to use `React` and `Flutter` to search for new challenges.
+My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`. Not only that, but I have learned to use `React` and `Flutter` to search for interesting challenges.
 Furthermore, I enjoy powerlifting and traveling in my spare time.
 
 **Contact:**
@@ -23,13 +23,12 @@ _Dec. 2021 - Jul. 2022_
 
 #### [LOOM-LD](https://github.com/oeg-upm/loom-ld)
 
-- Analyzed ontologies from different data sources;
-- Specialized 7 linking discovery algorithms, including text similarity and spatial relationships;
-- Implemented a Sparql-based knowledge graph linker using customized Apache Jena functions;
-- Evaluated those algorithms with OAEI-2021 datasets;
-- Completed the master's [thesis](https://oa.upm.es/71452/).
+- Analyzed ontologies from different data sources, like DBpedia, Wikidata;
+- Specialized 7 linking discovery algorithms, including string-based similarity and geometry relationships;
+- Implemented a Sparql-based linking application by using `Apache Jena`, and evaluated it with the OAEI-2021 datasets;
+- Written the master's [thesis](https://oa.upm.es/71452/).
 
-**_Keywords_**: `Ontology` `Graph Linker` `RDF` `SPARQL` `Apache Jena` `Text Similarity` `DE-9IM` `WKT` `OAEI`
+**_Keywords_**: `RDF`, `SPARQL`, `Apache Jena`, `String-based Similarity`, `DE-9IM`, `OAEI`
 
 ### [TOGIC](http://www.51togic.com) ｜ Big Data Engineer
 
@@ -37,27 +36,28 @@ _May 2019 - Aug. 2021_ · 2 yrs 4 mos
 
 #### Offline Data Warehouse
 
-- Designed a STAR model Data Warehouse, which contained four-layer: ODS, DWD, DWS, and ADS, saving over 80% of storage and fixing small files' problems on HDFS;
-- Developed and managed the Data Warehouse, which comprises over 150 tables and 200 TB of data, including user and system logs from Togic and Webox, producing 300 GB each day;
-- Upgraded almost all big data components, including HDFS, Spark, Kafka etc.
+- Maintained the `Hadoop` cluster containing over 200 TB of data, including user and system logs from 3 different sources, which generated 300 GB per day;
+- Upgraded big data components, including `Hadoop`, `Spark`, `Kafka`, etc., and monitored them on `CDH`;
+- Designed and implemented a four-layer data warehouse based on the STAR model by using `Hive`, which had over 150 tables;
+- Rewrote the ETL process, which saved over 80% of storage and fixed the small files' problem on `HDFS`;
 
-**_Keywords_**: `CDH` `Kafka` `HDFS` `HIVE` `Spark`
+**_Keywords_**: `CDH`, `Hadoop`, `Kafka`, `HIVE`, `Spark`
 
 #### Data Statistics System
 
-- Restructured the statistics system based on the new Offline Data Warehouse;
-- Rewrote the code by using DataFrame, making them more readable and maintainable, and reducing the process time to 25% compared to the previous one;
+- Restructured the statistics system based on the new offline data warehouse;
+- Rewrote the code by using `Spark DSL`, making it more readable and maintainable;
+- Optimized the system's performance, reduced the process time by 25% compared to the previous version;
 - Implemented more than 30 new statistical demands and fixed bugs.
 
-**_Keywords_**: `Sqoop` `Hive` `Spark` `Scala` `Elasticsearch` `MySQL` `MongoDB`
+**_Keywords_**: `Sqoop`, `Hive`, `Spark`, `Elasticsearch`, `MySQL`, `MongoDB`, `Scala`, `Python`
 
 #### Log Collection Service
 
-- Designed and implemented the log collection pipeline based on Nginx and Netty, improving performance and stability;
+- Designed and implemented the log collection pipeline using `Nginx` and `Netty`, improving performance, stability, and scalability;
+- Processed all logs into the `Kafka` cluster, which has 5 brokers, 3 replications, and 7 days of redundancy, improving robustness.
 
-- Processed all logs into the message queues in Kafka, which has five brokers, three data backups, and seven days of log redundancy, improving the robustness of this service.
-
-**_Keywords_**: `Nginx` `Netty` `Java` `Kafka` `HDFS`
+**_Keywords_**: `Nginx`, `Netty`, `Java`, `Kafka`, `HDFS`
 
 ### [WEBSTUDIO](http://www.wbdatavis.com) ｜ Backend Engineer
 
@@ -66,23 +66,25 @@ _Jul. 2018 - Apr. 2019_ · 10 mos
 - Implemented backend APIs of big data visualization dashboards and general reports for the BI applications;
 - Developed more than 25 data operators, such as summation, date conversion, string processing etc.;
 - Implemented the one-click function of syncing all user information;
-- Expanded 16 data sources, including MySQL, SQL Server, MongoDB etc.;
-- Maintained the big data platform;
-- Fixed bugs and developed new features for the previous company's projects.
+- Expanded 16 data sources, including `MySQL`, `SQL Server`, `MongoDB` etc.;
+- Maintained the big data cluster;
+- Fixed bugs and developed new features for the previous projects.
 
-**_Keywords_**: `Dubbo` `Spring Boot` `MyBatis` `Hibernate` `Nginx` `Docker` `FastDFS` `CDH` `HBase` `Impala`
+**_Keywords_**: `Dubbo`, `Spring Boot`, `MyBatis`, `Hibernate`, `Nginx`, `Docker`, `FastDFS`, `CDH`, `HBase`, `Impala`
 
 ### [KEG-THU](https://keg.cs.tsinghua.edu.cn) ｜ Software Engineering Intern
 
 _Feb. 2018 - Jul. 2018_ · 6 mos
 
 - Organized and annotated critical illness insurance documents;
-- Trained models to extract the logical structure of insurance documents by using GROBID;
+- Trained models to extract the logical structure of insurance documents by using `GROBID`;
 - Created a desktop application using above models;
-- Maintained datasets in NoSQL database, like MongoDB, Neo4j;
+- Maintained datasets in NoSQL database, like `MongoDB`, `Neo4j`;
 - Completed the thesis.
 
-**_Keywords_**: `NLP` `CRF` `GROBID` `Neo4j` `MongoDB` `Java FX`
+**_Keywords_**: `NLP`, `CRF`, `GROBID`, `Neo4j`, `MongoDB`, `Java FX`
+
+---
 
 ## Open Source
 
@@ -94,7 +96,9 @@ _Apr. 2022 - Present_
 - Translated the basic tasks;
 - Shared the latest blockchain news and cutting-edge technics in the community.
 
-**_Keywords_**: `Blockchain` `Web3.js` `Solidity` `Dapp` `Ethereum` `Hardhat` `Alchemy` `Infura` `DAO`.
+**_Keywords_**: `Blockchain`, `Web3.js`, `Solidity`, `Dapp`, `Ethereum`, `Hardhat`, `Alchemy`, `Infura`, `DAO`
+
+---
 
 ## Education
 

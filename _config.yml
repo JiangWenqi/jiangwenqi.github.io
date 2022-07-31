@@ -52,7 +52,7 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`. I have learned to use `React` and `Flutter` to search for new challenges.
+  My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. I am proficient in `Java` and `Scala`. Not only that, but I have learned to use `React` and `Flutter` to search for interesting challenges.
   Furthermore, I enjoy powerlifting and traveling in my spare time.
 
 content:
@@ -85,11 +85,10 @@ content:
         #   caption: Feb. 2022 - Present
 
         description: | # this will include new lines to allow paragraphs
-          - Analyzed ontologies from different data sources;
-          - Specialized 7 linking discovery algorithms, including text similarity and spatial relationships;
-          - Implemented a Sparql-based knowledge graph linker using customized `Apache Jena` functions;
-          - Evaluated those algorithms with `OAEI-2021` datasets;
-          - Completed the master's thesis.
+          - Analyzed ontologies from different data sources, like DBpedia, Wikidata;
+          - Specialized 7 linking discovery algorithms, including string-based similarity and geometry relationships;
+          - Implemented a Sparql-based linking application by using `Apache Jena`, and evaluated it with the OAEI-2021 datasets;
+          - Written the master's [thesis](https://oa.upm.es/71452/).
 
           **_Keywords_**: <mark>Ontology</mark> <mark>Graph Linker</mark> <mark>RDF</mark> <mark>Text Similarity</mark> <mark>DE-9IM</mark> <mark>WKT</mark> <mark>SPARQL</mark> <mark>Apache Jena</mark> <mark>OAEI</mark>
 
@@ -111,29 +110,29 @@ content:
         description: | # this will include new lines to allow paragraphs
           #### Offline Data Warehouse
 
-          - Designed a **STAR** model Data Warehouse, which contained four-layer: ODS, DWD, DWS, and ADS, saving over 80% of storage and fixing small files' problems on HDFS;
-          - Developed and managed the Data Warehouse, which comprises over 150 tables and 200 TB of data, including user and system logs from **Togic** and **Webox**, producing 300 GB each day;
-          - Upgraded almost all big data components, including `HDFS`, `Spark`, `Kafka` etc.
-
-          **_Keywords_**: <mark>CDH</mark> <mark>Kafka</mark> <mark>HDFS</mark> <mark>HIVE</mark> <mark>Spark</mark>
+          - Maintained the `Hadoop` cluster containing over 200 TB of data, including user and system logs from 3 different sources, which generated 300 GB per day;
+          - Upgraded big data components, including `Hadoop`, `Spark`, `Kafka`, etc., and monitored them on `CDH`;
+          - Designed and implemented a four-layer data warehouse based on the STAR model by using `Hive`, which had over 150 tables;
+          - Rewrote the ETL process, which saved over 80% of storage and fixed the small files' problem on `HDFS`;
+          **_Keywords_**: <mark>CDH</mark> <mark>Kafka</mark> <mark>Hadoop</mark> <mark>HIVE</mark> <mark>Spark</mark>
 
           ---
 
           #### Data Statistics System
 
-          - Restructured the statistics system based on the new Offline Data Warehouse;
-          - Rewrote the code by using `DataFrame`, making them more readable and maintainable, and reducing the process time to 25% compared to the previous one;
+          - Restructured the statistics system based on the new offline data warehouse;
+          - Rewrote the code by using `Spark DSL`, making it more readable and maintainable;
+          - Optimized the system's performance, reduced the process time by 25% compared to the previous version;
           - Implemented more than 30 new statistical demands and fixed bugs.
 
-          **_Keywords_**: <mark>Sqoop</mark> <mark>Hive</mark> <mark>Spark SQL</mark> <mark>Scala</mark> <mark>Elasticsearch</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>Python</mark>
+          **_Keywords_**: <mark>Sqoop</mark> <mark>Hive</mark> <mark>Spark</mark> <mark>Scala</mark> <mark>Elasticsearch</mark> <mark>MySQL</mark> <mark>MongoDB</mark> <mark>Python</mark>
 
           ---
 
           #### Log Collection Service
 
-          - Designed and implemented the log collection pipeline based on `Nginx` and `Netty`, improving performance and stability;
-
-          - Processed all logs into the message queues in `Kafka`, which has five brokers, three data backups, and seven days of log redundancy, improving the robustness of this service.
+          - Designed and implemented the log collection pipeline using `Nginx` and `Netty`, improving performance, stability, and scalability;
+          - Processed all logs into the `Kafka` cluster, which has 5 brokers, 3 replications, and 7 days of redundancy, improving robustness.
 
           **_Keywords_**: <mark>Nginx</mark> <mark>Netty</mark> <mark>Java</mark> <mark>Kafka</mark> <mark>HDFS</mark>
 
@@ -150,7 +149,7 @@ content:
           - Developed more than 25 data operators, such as summation, date conversion, string processing etc.;
           - Implemented the one-click function of syncing all user information;
           - Expanded 16 data sources, including `MySQL`, `SQL Server`, `MongoDB` etc.;
-          - Maintained the big data platform;
+          - Maintained the big data cluster;
           - Fixed bugs and developed new features for the previous company's projects.
 
           **_Keywords_**: <mark>Dubbo</mark> <mark>Spring Boot</mark> <mark>MyBatis</mark> <mark>Hibernate</mark> <mark>Java</mark> <mark>Nginx</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>Docker</mark> <mark>FastDFS</mark> <mark>CDH</mark> <mark>Hadoop</mark> <mark>HBase</mark> <mark>Impala</mark> <mark>Spark ML</mark>
