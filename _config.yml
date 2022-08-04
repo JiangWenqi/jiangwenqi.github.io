@@ -111,10 +111,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           #### Offline Data Warehouse
 
-          - Maintained the `Hadoop` cluster containing over 200 TB of data, including user and system logs from 3 different sources, which generated 300 GB per day;
+          - Maintained the `Hadoop` cluster containing over 200 TB of data, including user and system logs from 3 different sources;
           - Upgraded big data components, including `Hadoop`, `Spark`, `Kafka`, etc., and monitored them on `CDH`;
-          - Designed and implemented a four-layer data warehouse based on the STAR model by using `Hive`, which had over 150 tables;
-          - Rewrote the ETL process, which saved over 80% of storage and fixed the small files' problem on `HDFS`.
+          - Designed and implemented a four-layer data warehouse based on the STAR model by using `Hive`, which had near 150 tables and received over 300 GB per day;
+          - Rewrote the ETL pipeline, which saved over 80% of storage and fixed the small files' problem on `HDFS`.
 
           **_Keywords_**: <mark>CDH</mark> <mark>Kafka</mark> <mark>Hadoop</mark> <mark>HIVE</mark> <mark>Spark</mark>
 
