@@ -18,7 +18,7 @@ Furthermore, I enjoy powerlifting and traveling in my spare time.
 
 ### [OEG-UPM](https://oeg.fi.upm.es) ｜ Ontology Engineer
 
-_Dec. 2021 - Jul. 2022_
+_Jan. 2022 - Jul. 2022_
 
 > A student scholarship for the development of linking algorithms and graph linkers.
 
