@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Wenqi Jiang
-title: Big Data Engineer / Backend Engineer
+title: Software Engineer
 email: jiangwenqi1995@gmail.com
 website: jiangwenqi.info
 
@@ -52,7 +52,7 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Wenqi Jiang. I'm a software engineer with 3 years' experience in **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. 
+  My name is Wenqi Jiang. I'm a software engineer focusing on **big data infrastructure** and **backend services**, specializing in scalability, high availability, and low latency distributed systems design and implementation. 
   I am proficient in `Java` and `Scala` and I have studied `React` and `Flutter` to find interesting challenges.
   Furthermore, I enjoy powerlifting and traveling in my spare time.
 
@@ -70,7 +70,7 @@ content:
             url: https://github.com/oeg-upm/loom-ld
 
         sub_title: Ontology Engineering Group
-        caption: Jan. 2022 - Jul. 2022
+        caption: Feb. 2022 - Jul. 2022 · 6 mos
         # quote: >
         #   Ontology Engineering Group(OEG) is located at the ETS de Ingenieros Informáticos and is formed by more than 30 people from worldwide. The group has more than 25 years of experience in the creation and use of semantic technologies, linguistic engineering and data integration.
         quote: >
@@ -161,7 +161,7 @@ content:
         link: keg.cs.tsinghua.edu.cn
         # link_text: boringcompany.com
         sub_title: Knowledge Engineering Group
-        caption: Feb. 2018 - Jul. 2018 · 6 mos
+        caption: Nov. 2017 - Jun. 2018 · 8 mos
         quote: >
           The Knowledge Engineering Group (KEG) of Tsinghua University established in 1996, and devotes to research on social network analysis, news mining, semantic web, knowledge graph construction, etc.
         description: | # this will include new lines to allow paragraphs
